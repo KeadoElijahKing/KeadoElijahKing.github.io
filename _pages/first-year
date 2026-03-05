@@ -1,9 +1,9 @@
 ---
-title: "1st-Yr"
+title: "first-Yr"
 layout: single
-permalink: /1st-yr/
+permalink: /first-yr/
 sidebar:
-  title: "1st-Yr"
+  title: "first-Yr"
   nav:
     - year
 ---

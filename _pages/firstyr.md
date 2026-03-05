@@ -1,11 +1,11 @@
 ---
-title: "firstyr"
+title: "First Year College"
 layout: single
 permalink: /firstyr/
 sidebar:
-  title: "firstyr"
+  title: "First Year College"
   nav:
-    - year
+    - first
 ---
 
 Welcome to the projects page. This is where you can list your game projects.

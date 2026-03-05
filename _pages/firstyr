@@ -1,9 +1,9 @@
 ---
-title: "firstYr"
+title: "firstyr"
 layout: single
 permalink: /firstyr/
 sidebar:
-  title: "first-Yr"
+  title: "firstyr"
   nav:
     - year
 ---

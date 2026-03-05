@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Projectsgggg"
-    url: /first-year/
+    url: /firstyear/
   - title: "Projects"
     url: /projects/
     children:

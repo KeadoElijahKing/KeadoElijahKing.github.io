@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "1st-year"
-    url: /1st-year/
+  - title: "first-year"
+    url: /first-year/
   - title: "Projects"
     url: /projects/
     children:

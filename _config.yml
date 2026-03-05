@@ -1,7 +1,7 @@
 # Basic site settings (edit these first)
-title: "Student Portfolio" # Site title shown in the browser and header
+title: "Paul Kilby Portfolio" # Site title shown in the browser and header
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
+subtitle: "My Journey" # site tagline that appears below site title in masthead
 description: "A simple portfolio starter for games students." # Short site summary
 name: "Paul Kilby"
 url: "KeadoElijahKing.github.io" # Your GitHub Pages domain

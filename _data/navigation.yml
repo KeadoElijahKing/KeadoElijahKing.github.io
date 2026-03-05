@@ -31,6 +31,11 @@ projects:
   - title: "Capstone"
     url: /projects/capstone/
 
+
+firstyr:
+  - title: "3D"
+    url: /first/3D/
+
 # Sidebar menu for the Pages page
 pages:
   - title: "Default Layout"

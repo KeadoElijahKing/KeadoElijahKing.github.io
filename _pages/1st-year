@@ -1,20 +1,13 @@
 ---
-title: "1st year"
-layout: default
-permalink: /pages/1st-year/
+title: "1st-year"
+layout: single
+permalink: /pages/1st-year/ 
+sidebar:
+  title: "Projects"
+  nav:
+    - projects
 ---
 
-This is my 1st year page
+Welcome to the projects page. This is where you can list your game projects.
 
-{% include download
-  title="Download my Project Proposal"
-  url="/assets/downloads/Project-proposal.pdf"
-  button_label="Download Project Proposal"
-  download="Project-proposal.pdf"
-%}
-
-{% include google-form
-  title="Contact Me"
-  src="https://forms.gle/XsbApFoRjn7r24jy6"
-  height="800"
-%}
+You can use this page to show a reel of all projects and then have a separate page for each project.

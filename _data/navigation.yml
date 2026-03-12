@@ -21,9 +21,10 @@ firstyr:
   - title: "Save The Day"
     url: /firstyr/save-the-day/
 
+# Sidebar menu for the Pages page
  secondyr:
   - title: "2nd Year College"
     url: /secondyr/
   - title: "Next Gen"
     url: /secondyr/next-gen/
-# Sidebar menu for the Pages page
+

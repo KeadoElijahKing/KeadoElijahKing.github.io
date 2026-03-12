@@ -1,7 +1,7 @@
 ---
 title: "Next Gen"
 layout: single
-permalink: /firstyr/next-gen/
+permalink: /secondyr/next-gen/
 sidebar:
   title: "Second Year College"
   nav:

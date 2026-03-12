@@ -1,11 +1,11 @@
 ---
-title: "Second Year College"
+title: "Contact"
 layout: single
-permalink: /secondyr/
+permalink: /contact/
 sidebar:
-  title: "Second Year College"
+  title: "Contact"
   nav:
-    - secondyr
+    - contact
 ---
 
 Welcome to the projects page. This is where you can list your game projects.

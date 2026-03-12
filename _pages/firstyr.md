@@ -5,7 +5,7 @@ permalink: /firstyr/
 sidebar:
   title: "First Year College"
   nav:
-    - first
+    - firstyr
 ---
 
 Welcome to the projects page. This is where you can list your game projects.

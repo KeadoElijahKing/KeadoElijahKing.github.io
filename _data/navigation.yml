@@ -23,8 +23,8 @@ firstyr:
     url: /firstyr/save-the-day/
 
     # Sidebar menu for the Projects page
-firstyr:
+secondyr:
   - title: "2nd Year College"
-    url: /secndyr/
+    url: /secondyr/
 
 # Sidebar menu for the Pages page

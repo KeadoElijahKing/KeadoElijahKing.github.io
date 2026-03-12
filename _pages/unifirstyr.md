@@ -3,7 +3,7 @@ title: "First Year University"
 layout: single
 permalink: /unifirstyr/
 sidebar:
-  title: "First Year Universityy"
+  title: "First Year University"
   nav:
     - unifirstyr
 ---

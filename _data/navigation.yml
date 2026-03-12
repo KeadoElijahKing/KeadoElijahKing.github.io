@@ -33,6 +33,8 @@ projects:
 
 
 firstyr:
+  - title: "1st Year College"
+    url: /firstyr/
   - title: "3D Diorama"
     url: /firstyr/3D/
   - title: "Haunted Animaions"

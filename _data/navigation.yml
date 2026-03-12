@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "1st Year College"
-    url: /firstyr/
+    url: /firstyr/3D/
   - title: "Projects"
     url: /projects/
     children:

@@ -35,6 +35,9 @@ projects:
 firstyr:
   - title: "3D Diorama"
     url: /firstyr/3D/
+    - title: "Haunted Animaions"
+    url: /firstyr/haunted-animations/
+    
 
 # Sidebar menu for the Pages page
 pages:

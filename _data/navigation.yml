@@ -41,6 +41,8 @@ firstyr:
     url: /firstyr/haunted-animations/
   - title: "First Level"
     url: /firstyr/first-level/
+  - title: "Save The Day"
+    url: /firstyr/save-the-day/
 
 # Sidebar menu for the Pages page
 pages:

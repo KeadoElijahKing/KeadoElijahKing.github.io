@@ -8,7 +8,7 @@ main:
     url: /secondyr/
   - title: "1st Year University"
     url: /unifirstyr/
-    - title: "My Contacts"
+  - title: "My Contacts"
     url: /contact/
  
  

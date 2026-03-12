@@ -3,9 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "1st Year College"
-    url: /firstyr/3D/
-  - title: "Haunted Animaions"
-    url: /firstyr/haunted-animations/
+    url: /firstyr/
   - title: "Projects"
     url: /projects/
     children:

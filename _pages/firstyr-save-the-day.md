@@ -1,8 +1,7 @@
-
 ---
 title: "Save The Day"
 layout: single
-permalink: /firstyr/save/
+permalink: /firstyr/save-the-day/
 sidebar:
   title: "First Year College"
   nav:

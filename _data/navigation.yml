@@ -39,7 +39,8 @@ firstyr:
     url: /firstyr/3D/
   - title: "Haunted Animaions"
     url: /firstyr/haunted-animations/
-    
+  - title: "First Level"
+    url: /firstyr/first-level
 
 # Sidebar menu for the Pages page
 pages:

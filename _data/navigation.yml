@@ -4,7 +4,7 @@ main:
     url: /
   - title: "1st Year College"
     url: /firstyr/
-  - title: "Second Year College"
+  - title: "2nd Year College"
     url: /secondyr/
   - title: "Pages"
     url: /pages/
@@ -40,7 +40,7 @@ firstyr:
     url: /firstyr/save-the-day/
 
  secondyr:
-  - title: "Second Year College"
+  - title: "2nd Year College"
     url: /secondyr/
   - title: "Next Gen"
     url: /secondyr/next-gen/

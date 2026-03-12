@@ -37,5 +37,8 @@ secondyr:
 unifirstyr:
   - title: "1st Year University"
     url: /unifirstyr/
+  - title: "Crystallisation 2D"
+    url: /unifirstyr/crystal-2d/
+
 
 # Sidebar menu for the Pages page

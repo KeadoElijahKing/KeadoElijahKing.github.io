@@ -2,7 +2,7 @@
 ---
 title: "First Level"
 layout: single
-permalink: /firstyr/1st L/
+permalink: /firstyr/first-level/
 sidebar:
   title: "First Year College"
   nav:

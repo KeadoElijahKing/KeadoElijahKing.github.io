@@ -6,17 +6,6 @@ main:
     url: /firstyr/
   - title: "2nd Year College"
     url: /secondyr/
-  - title: "Pages"
-    url: /pages/
-    children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
-  - title: "Components"
-    url: /components/
  
 
 # Sidebar menu for the Projects page
@@ -38,10 +27,3 @@ firstyr:
   - title: "Next Gen"
     url: /secondyr/next-gen/
 # Sidebar menu for the Pages page
-pages:
-  - title: "Default Layout"
-    url: /pages/default/
-  - title: "Single Layout"
-    url: /pages/single/
-  - title: "Splash Layout"
-    url: /pages/splash/

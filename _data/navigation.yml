@@ -26,5 +26,7 @@ firstyr:
 secondyr:
   - title: "2nd Year College"
     url: /secondyr/
+  - title: "Next Gen"
+    url: /secondyr/next-gen/
 
 # Sidebar menu for the Pages page

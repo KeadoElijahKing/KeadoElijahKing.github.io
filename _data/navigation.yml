@@ -4,8 +4,6 @@ main:
     url: /
   - title: "1st Year College"
     url: /firstyr/
-  - title: "2nd Year College"
-    url: /secondyr/
  
 
 # Sidebar menu for the Projects page
@@ -22,9 +20,3 @@ firstyr:
     url: /firstyr/save-the-day/
 
 # Sidebar menu for the Pages page
- secondyr:
-  - title: "2nd Year College"
-    url: /secondyr/
-  - title: "Next Gen"
-    url: /secondyr/next-gen/
-

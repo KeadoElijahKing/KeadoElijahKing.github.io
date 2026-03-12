@@ -8,6 +8,8 @@ main:
     url: /secondyr/
   - title: "1st Year University"
     url: /unifirstyr/
+    - title: "Contact"
+    url: /contact/
  
  
 

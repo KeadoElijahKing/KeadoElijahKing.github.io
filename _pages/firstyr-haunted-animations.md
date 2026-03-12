@@ -1,7 +1,7 @@
 ---
 title: "Haunted Animaions"
 layout: single
-permalink: /firstyr/HA/
+permalink: /firstyr/haunted-animations/
 sidebar:
   title: "First Year College"
   nav:

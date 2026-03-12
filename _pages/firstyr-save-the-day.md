@@ -6,7 +6,7 @@ permalink: /firstyr/save/
 sidebar:
   title: "First Year College"
   nav:
-    - first
+    - firstyr
 ---
 
 This page is another project page that is nested within Projects.

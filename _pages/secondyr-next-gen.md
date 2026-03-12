@@ -1,12 +1,11 @@
-
 ---
 title: "Next Gen"
 layout: single
-permalink: /firstyr/NG/
+permalink: /firstyr/next-gen/
 sidebar:
-  title: "First Year College"
+  title: "Second Year College"
   nav:
-    - first
+    - secondyr
 ---
 
 This page is another project page that is nested within Projects.

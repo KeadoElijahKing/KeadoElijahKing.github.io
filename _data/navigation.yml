@@ -20,13 +20,6 @@ main:
  
 
 # Sidebar menu for the Projects page
-projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
-  - title: "Capstone"
-    url: /projects/capstone/
-
-
 firstyr:
   - title: "1st Year College"
     url: /firstyr/

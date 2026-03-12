@@ -1,4 +1,3 @@
-
 ---
 title: "First Level"
 layout: single

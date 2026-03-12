@@ -4,6 +4,7 @@ main:
     url: /
   - title: "1st Year College"
     url: /firstyr/3D/
+    url: /firstyr/haunted-animations/
   - title: "Projects"
     url: /projects/
     children:

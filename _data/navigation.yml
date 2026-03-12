@@ -4,13 +4,8 @@ main:
     url: /
   - title: "1st Year College"
     url: /firstyr/
-  - title: "Projects"
-    url: /projects/
-    children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
+  - title: "Second Year College"
+    url: /secondyr/
   - title: "Pages"
     url: /pages/
     children:

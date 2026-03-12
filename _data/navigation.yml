@@ -6,6 +6,8 @@ main:
     url: /firstyr/
   - title: "2nd Year College"
     url: /secondyr/
+  - title: "1st Year University"
+    url: /unifirstyr/
  
  
 
@@ -31,5 +33,9 @@ secondyr:
   - title: "Crystallisation 3D"
     url: /secondyr/crystal-3d/
 
+    # Sidebar menu for the Projects page
+unifirstyr:
+  - title: "1st Year University"
+    url: /unifirstyr/
 
 # Sidebar menu for the Pages page

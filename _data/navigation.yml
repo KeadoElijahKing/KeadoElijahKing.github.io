@@ -10,8 +10,9 @@ main:
     url: /unifirstyr/
   - title: "My Contacts"
     url: /contact/
- 
- 
+  - title: " About Me"
+    url: /about-me/
+
 
 # Sidebar menu for the Projects page
 firstyr:

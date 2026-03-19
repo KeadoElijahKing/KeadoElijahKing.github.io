@@ -8,8 +8,8 @@ sidebar:
     - firstyr
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/hachairphotoshop.jpeg
+    image_path: /assets/images/hachairphotoshop.jpeg
     alt: "Gameplay 1"
     title: "Core loop"
     caption: "Core loop"

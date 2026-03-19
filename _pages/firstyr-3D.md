@@ -17,4 +17,4 @@ This page is another project page that is nested within Projects.
 {% include figure image_path="/assets/images/dioramagreenbluecrystal.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/dioramapinkcrystal.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/dioramamushroom.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include video id="[dQw4w9WgXcQ](https://youtu.be/unP9But-MR0)" provider="youtube" %}
+{% include video id="(https://youtu.be/unP9But-MR0)" provider="youtube" %}

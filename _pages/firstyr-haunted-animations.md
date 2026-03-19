@@ -26,8 +26,8 @@ gallery_hauntedchair:
 
     gallery_hauntedchest:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/hachairphotoshop.jpeg
-    image_path: /assets/images/hachairphotoshop.jpeg
+  - url: /assets/images/hachestphotoshop.jpeg
+    image_path: /assets/images/hachestphotoshop.jpeg
     alt: "Gameplay 1"
     title: "Photoshop"
     caption: "Photoshop"

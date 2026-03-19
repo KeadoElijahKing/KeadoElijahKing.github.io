@@ -31,8 +31,8 @@ gallery_hauntedchair:
     alt: "Gameplay 1"
     title: "Photoshop"
     caption: "Photoshop"
-  - url: /assets/images/hachairstoryboard.jpeg
-    image_path: /assets/images/hachairstoryboard.jpeg
+  - url: /assets/images/hacheststoryboard.jpeg
+    image_path: /assets/images/hacheststoryboard.jpeg
     alt: "Gameplay 2"
     title: "Story-Board"
     caption: "Story-Board"

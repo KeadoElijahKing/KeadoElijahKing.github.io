@@ -44,8 +44,8 @@ gallery_hauntedchair:
 
     gallery_haunteddoor:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/hachairphotoshop.jpeg
-    image_path: /assets/images/hachairphotoshop.jpeg
+  - url: /assets/images/hadoorphotoshop.jpeg
+    image_path: /assets/images/hadoorphotoshop.jpeg
     alt: "Gameplay 1"
     title: "Photoshop"
     caption: "Photoshop"

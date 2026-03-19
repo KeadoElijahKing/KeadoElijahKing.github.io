@@ -13,8 +13,8 @@ gallery_gameplay:
     alt: "Gameplay 1"
     title: "Core loop"
     caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/hachairstoryboard.jpeg
+    image_path: /assets/images/hachairstoryboard.jpeg
     alt: "Gameplay 2"
     title: "Challenge"
     caption: "Challenge"

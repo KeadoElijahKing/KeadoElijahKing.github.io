@@ -100,6 +100,7 @@ gallery_hauntedlantern:
 This page is another project page that is nested within Projects.
 
 {% include gallery id="gallery_hauntedchair" layout="third" thumb_height="180px" %}
+jhgkjhb
 {% include video id="CIOrubINR4" provider="youtube" %}
 
 {% include gallery id="gallery_hauntedchest" layout="third" thumb_height="180px" %}

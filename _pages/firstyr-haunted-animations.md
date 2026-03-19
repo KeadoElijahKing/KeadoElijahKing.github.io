@@ -18,8 +18,8 @@ gallery_gameplay:
     alt: "Gameplay 2"
     title: "Challenge"
     caption: "Challenge"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/hachairmodel.jpeg
+    image_path: /assets/images/hachairmodel.jpeg
     alt: "Gameplay 3"
     title: "Power-ups"
     caption: "Power-ups"

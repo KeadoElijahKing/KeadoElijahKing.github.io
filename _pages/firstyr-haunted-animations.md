@@ -6,7 +6,7 @@ sidebar:
   title: "First Year College"
   nav:
     - firstyr
-gallery_gameplay:
+gallery_hauntedchair:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/hachairphotoshop.jpeg
     image_path: /assets/images/hachairphotoshop.jpeg
@@ -28,4 +28,4 @@ gallery_gameplay:
 
 This page is another project page that is nested within Projects.
 
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_hauntedchair" layout="third" thumb_height="180px" %}

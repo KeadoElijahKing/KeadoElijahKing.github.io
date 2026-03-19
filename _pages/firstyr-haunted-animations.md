@@ -11,18 +11,18 @@ gallery_hauntedchair:
   - url: /assets/images/hachairphotoshop.jpeg
     image_path: /assets/images/hachairphotoshop.jpeg
     alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+    title: "Photoshop"
+    caption: "Photoshop"
   - url: /assets/images/hachairstoryboard.jpeg
     image_path: /assets/images/hachairstoryboard.jpeg
     alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
+    title: "Story-Board"
+    caption: "Story-Board"
   - url: /assets/images/hachairmodel.jpeg
     image_path: /assets/images/hachairmodel.jpeg
     alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power-ups"
+    title: "Model"
+    caption: "Model"
     
 ---
 

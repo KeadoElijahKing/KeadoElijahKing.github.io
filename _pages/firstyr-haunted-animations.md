@@ -7,7 +7,7 @@ sidebar:
   nav:
     - firstyr
 gallery_hauntedchair:
-  # Recommended: width "240px" to "320px" keeps a neat grid
+  # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/hachairphotoshop.jpeg
     image_path: /assets/images/hachairphotoshop.jpeg
     alt: "Gameplay 1"

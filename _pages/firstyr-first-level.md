@@ -24,7 +24,7 @@ This page is another project page that is nested within Projects.
 {% include figure image_path="/assets/images/1stwall.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/1stteleporter.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/1stteleporterscript.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
+{% include figure image_path="/assets/images/1stappearscript.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}

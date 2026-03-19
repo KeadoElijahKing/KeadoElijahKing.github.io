@@ -1,5 +1,5 @@
 ---
-title: "Haunted Animaions"
+title: "Haunted Animations"
 layout: single
 permalink: /firstyr/haunted-animations/
 sidebar:

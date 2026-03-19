@@ -23,7 +23,6 @@ gallery_hauntedchair:
     alt: "Gameplay 3"
     title: "Model"
     caption: "Model"
-    {% include video id="CIOrubINR4" provider="youtube" %}
 
     gallery_hauntedchest:
   # Recommended: width "240px" to "320px" keeps a neat grid

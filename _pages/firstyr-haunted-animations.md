@@ -36,8 +36,8 @@ gallery_hauntedchair:
     alt: "Gameplay 2"
     title: "Story-Board"
     caption: "Story-Board"
-  - url: /assets/images/hachairmodel.jpeg
-    image_path: /assets/images/hachairmodel.jpeg
+  - url: /assets/images/hachestmodel.jpeg
+    image_path: /assets/images/hachestmodel.jpeg
     alt: "Gameplay 3"
     title: "Model"
     caption: "Model"

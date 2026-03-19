@@ -24,7 +24,7 @@ gallery_hauntedchair:
     title: "Model"
     caption: "Model"
 
- gallery_hauntedchest:
+gallery_hauntedchest:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/hachestphotoshop.jpeg
     image_path: /assets/images/hachestphotoshop.jpeg
@@ -42,7 +42,7 @@ gallery_hauntedchair:
     title: "Model"
     caption: "Model"
 
- gallery_haunteddoor:
+gallery_haunteddoor:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/hadoorphotoshop.jpeg
     image_path: /assets/images/hadoorphotoshop.jpeg
@@ -60,7 +60,7 @@ gallery_hauntedchair:
     title: "Model"
     caption: "Model"
     
- gallery_hauntedlantern:
+gallery_hauntedlantern:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/halanternphotoshop.jpeg
     image_path: /assets/images/halanternphotoshop.jpeg
@@ -78,7 +78,7 @@ gallery_hauntedchair:
     title: "Model"
     caption: "Model"
 
-  gallery_hauntedspiketrap:
+gallery_hauntedspiketrap:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/haspiketrapphotoshop.jpeg
     image_path: /assets/images/haspiketrapphotoshop.jpeg

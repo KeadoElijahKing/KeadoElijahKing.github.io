@@ -8,7 +8,7 @@ sidebar:
     - firstyr
 ---
 
-This page is another project page that is nested within Projects.
+On this 
 {% include figure image_path="/assets/images/dioramafront.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/dioramazoom.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/dioramabluegrass.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}

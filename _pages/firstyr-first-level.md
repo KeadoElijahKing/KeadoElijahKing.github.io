@@ -17,7 +17,7 @@ This page is another project page that is nested within Projects.
 {% include figure image_path="/assets/images/1stfishingboat.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/1stboat.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/1stspaceship.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
+{% include figure image_path="/assets/images/1sthouse.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}

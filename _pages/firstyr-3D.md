@@ -50,8 +50,8 @@ gallery_dioramacrystal:
     alt: "Gameplay 2"
     title: "Pink Crystal"
     caption: "Pink Crystal"
-    
- gallery_dioramamushroom:
+
+gallery_dioramamushroom:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/dioramamushroom.jpeg
     image_path: /assets/images/dioramamushroom.jpeg

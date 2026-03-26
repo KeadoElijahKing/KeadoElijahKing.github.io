@@ -51,7 +51,7 @@ gallery_dioramagrass:
     title: "Pink Crystal"
     caption: "Pink Crystal"
 
- gallery_dioramamushroom:
+ gallery_dioramaMushroom:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/dioramamushroom.jpeg
     image_path: /assets/images/dioramamushroom.jpeg
@@ -65,6 +65,6 @@ On this page I will showcase the first project I ever had when I started my stud
 {% include gallery id="gallery_diorama" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_dioramagrass" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_dioramacrystal" layout="third" thumb_height="180px" %}
-{% include gallery id="gallery_dioramamushroom" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_dioramaMushroom" layout="third" thumb_height="180px" %}
 
 {% include video id="unP9But-MR0" provider="youtube" %}

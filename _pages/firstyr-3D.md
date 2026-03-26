@@ -25,12 +25,12 @@ gallery_dioramagrass:
   - url: /assets/images/dioramabluegrass.jpeg
     image_path: /assets/images/dioramabluegrass.jpeg
     alt: "Gameplay 1"
-    title: "Front"
-    caption: "Front"
+    title: "Blue Grass"
+    caption: "Blue Grass"
   - url: /assets/images/dioramapurpleorangegrass.jpeg
     image_path: /assets/images/dioramapurpleorangegrass.jpeg
     alt: "Gameplay 2"
-    title: "Zoomed out"
+    title: "Purple/orange grass"
     caption: "Zoomed out"
   - url: /assets/images/dioramagreengrass.jpeg
     image_path: /assets/images/dioramagreengrass.jpeg

@@ -12,30 +12,67 @@ gallery_level:
   - url: /assets/images/1stcaveaboveground.jpeg
     image_path: /assets/images/1stcaveaboveground.jpeg
     alt: "Gameplay 1"
-    title: "Front"
-    caption: "Front"
+    title: "Underground Cave"
+    caption: "Underground Cave"
   - url: /assets/images/1stpathway.jpeg
     image_path: /assets/images/1stpathway.jpeg
     alt: "Gameplay 2"
-    title: "Zoomed out"
-    caption: "Zoomed out"
+    title: "Level Pathway"
+    caption: "Level Pathway"
   - url: /assets/images/1stlevelborer.jpeg
     image_path: /assets/images/1stlevelborer.jpeg
     alt: "Gameplay 2"
-    title: "Zoomed out"
-    caption: "Zoomed out"
+    title: "Pathway Border"
+    caption: "Pathway Border"
+
+gallery_level2:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/1stlandingplatform.jpeg
+    image_path: /assets/images/1stlandingplatform.jpeg
+    alt: "Gameplay 1"
+    title: "Ship Landing Platform"
+    caption: "Ship Landing Platform"
+  - url: /assets/images/1stfishingboat.jpeg
+    image_path: /assets/images/1stfishingboat.jpeg
+    alt: "Gameplay 2"
+    title: "Lake Bridge"
+    caption: "Lake Bridge"
+  - url: /assets/images/1stterrain.jpeg
+    image_path: /assets/images/1stterrain.jpeg
+    alt: "Gameplay 2"
+    title: "Terrain"
+    caption: "Terrain"
+    
+gallery_assets:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/1stboat.jpeg
+    image_path: /assets/images/1stboat.jpeg
+    alt: "Gameplay 1"
+    title: "Boat"
+    caption: "Boat"
+  - url: /assets/images/1stspaceship.jpeg
+    image_path: /assets/images/1stspaceship.jpeg
+    alt: "Gameplay 2"
+    title: "Spaceship"
+    caption: "Spaceship"
+  - url: /assets/images/1sthouse.jpeg
+    image_path: /assets/images/1sthouse.jpeg
+    alt: "Gameplay 2"
+    title: "House"
+    caption: "House"
 ---
 
 This page is another project page that is nested within Projects.
 
 
-{% include figure image_path="/assets/images/1stlevelborer.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stlandingplatform.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stfishingboat.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stterrain.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stboat.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stspaceship.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1sthouse.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
+{% include gallery id="gallery_level" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_level2" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_assets" layout="third" thumb_height="180px" %}
+
+
+
+
+
 {% include figure image_path="/assets/images/1stcastlegate.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/1stwalpillars.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include figure image_path="/assets/images/1stwall.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}

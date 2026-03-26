@@ -3,7 +3,7 @@ title: "3D Diorama"
 layout: single
 permalink: /firstyr/3D/
 sidebar:
-title: "First Year College"
+  title: "First Year College"
   nav:
     - firstyr
 
@@ -38,7 +38,7 @@ gallery_dioramagrass:
     title: "Green Grass"
     caption: Green Grass"
 
- gallery_dioramacrystal:
+gallery_dioramacrystal:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/dioramagreenbluecrystal.jpeg
     image_path: /assets/images/dioramagreenbluecrystal.jpeg

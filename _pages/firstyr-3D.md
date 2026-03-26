@@ -7,7 +7,7 @@ sidebar:
   nav:
     - firstyr
 
-    gallery_diorama:
+gallery_diorama:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/dioramafront.jpeg
     image_path: /assets/images/dioramafront.jpeg

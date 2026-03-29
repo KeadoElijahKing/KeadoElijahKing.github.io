@@ -53,8 +53,8 @@ gallery_kart:
     caption: "Cat In Kart Painted"
 gallery_bike:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/ngcat.png
-    image_path: /assets/images/ngcat.png
+  - url: /assets/images/speeder bike.png
+    image_path: /assets/images/speeder bike.png
     alt: "Gameplay 1"
     title: "Cat"
     caption: "Cat"

@@ -42,7 +42,7 @@ gallery_floors:
     alt: "Gameplay 3"
     title: "Kill Switch"
     caption: "Kill Switch"
- - url: /assets/images/saevkillswitch.jpeg
+  - url: /assets/images/saevkillswitch.jpeg
     image_path: /assets/images/saevkillswitch.jpeg
     alt: "Gameplay 3"
     title: "Kill Switch"

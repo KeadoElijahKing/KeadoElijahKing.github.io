@@ -76,12 +76,24 @@ gallery_shop:
     alt: "Gameplay 2"
     title: "Fruit"
     caption: "Fruit"
+
+gallery_Others:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/saveshop.jpeg
+    image_path: /assets/images/saveshop.jpeg
+    alt: "Gameplay 1"
+    title: "Shop"
+    caption: "Shop"
+  - url: /assets/images/savefruit.jpeg
+    image_path: /assets/images/savefruit.jpeg
+    alt: "Gameplay 2"
+    title: "Fruit"
+    caption: "Fruit"
   - url: /assets/images/saevsafe.jpeg
     image_path: /assets/images/saevsafe.jpeg
     alt: "Gameplay 3"
     title: "Safe"
     caption: "Safe"
-    
 ---
 
 This page is another project page that is nested within Projects.
@@ -90,3 +102,4 @@ This page is another project page that is nested within Projects.
 {% include gallery id="gallery_Warehouse" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_bank" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_shop" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Others" layout="third" thumb_height="180px" %}

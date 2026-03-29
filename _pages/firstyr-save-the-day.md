@@ -14,8 +14,8 @@ gallery_floors:
     alt: "Gameplay 1"
     title: "Photoshop"
     caption: "Photoshop"
-  - url: /assets/images/hachairstoryboard.jpeg
-    image_path: /assets/images/hachairstoryboard.jpeg
+  - url: /assets/images/savefloor2.jpeg
+    image_path: /assets/images/savefloor2.jpeg
     alt: "Gameplay 2"
     title: "Story-Board"
     caption: "Story-Board"

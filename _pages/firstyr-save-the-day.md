@@ -89,11 +89,11 @@ gallery_Others:
     alt: "Gameplay 2"
     title: "Train"
     caption: "Train"
-  - url: /assets/images/saevsafe.jpeg
-    image_path: /assets/images/saevsafe.jpeg
+  - url: /assets/images/savecupboard.jpeg
+    image_path: /assets/images/savecupboard.jpeg
     alt: "Gameplay 3"
-    title: "Safe"
-    caption: "Safe"
+    title: "Cupboard"
+    caption: "Cupboard"
 ---
 
 This page is another project page that is nested within Projects.

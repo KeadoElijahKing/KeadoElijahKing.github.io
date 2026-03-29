@@ -7,10 +7,10 @@ sidebar:
   nav:
     - firstyr
     #
-    gallery_hauntedchair:
+    gallery_floors:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/hachairphotoshop.jpeg
-    image_path: /assets/images/hachairphotoshop.jpeg
+  - url: /assets/images/save,floor1.jpeg
+    image_path: /assets/images/save,floor1.jpeg
     alt: "Gameplay 1"
     title: "Photoshop"
     caption: "Photoshop"
@@ -27,4 +27,5 @@ sidebar:
 ---
 
 This page is another project page that is nested within Projects.
-save,floor1.jpeg
+
+{% include gallery id="gallery_floors" layout="third" thumb_height="180px" %}

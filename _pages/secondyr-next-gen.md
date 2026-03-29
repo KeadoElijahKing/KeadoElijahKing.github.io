@@ -41,11 +41,11 @@ gallery_kart:
     alt: "Gameplay 2"
     title: "Kart"
     caption: "Kart"
-  - url: /assets/images/ngfrontship.jpeg
-    image_path: /assets/images/ngfrontship.jpeg
+  - url: /assets/images/ngcatinkart.png
+    image_path: /assets/images/ngcatinkart.png
     alt: "Gameplay 3"
-    title: "Ship Front"
-    caption: "Ship Front"
+    title: "Cat In Kart"
+    caption: "Cat In Kart"
   - url: /assets/images/ngbackship.jpeg
     image_path: /assets/images/ngbackship.jpeg
     alt: "Gameplay 3"

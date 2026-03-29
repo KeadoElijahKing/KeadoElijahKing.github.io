@@ -30,23 +30,23 @@ gallery_Warehouse:
   - url: /assets/images/savewarehouseone.jpeg
     image_path: /assets/images/savewarehouseone.jpeg
     alt: "Gameplay 1"
-    title: "Level One"
-    caption: "Level One"
+    title: "Warehouse Floor One"
+    caption: "Warehouse Floor One"
   - url: /assets/images/savewarehouse2.jpeg
     image_path: /assets/images/savewarehouse2.jpeg
     alt: "Gameplay 2"
-    title: "Level Two"
-    caption: "Level Two"
+    title: "Warehouse Floor Two"
+    caption: "Warehouse Floor Two"
   - url: /assets/images/savewarehouseshelves.jpeg
     image_path: /assets/images/savewarehouseshelves.jpeg
     alt: "Gameplay 3"
-    title: "Kill Switch"
-    caption: "Kill Switch"
-  - url: /assets/images/saevkillswitch.jpeg
-    image_path: /assets/images/saevkillswitch.jpeg
+    title: "Warehouse Shelves"
+    caption: "Warehouse Shelves"
+  - url: /assets/images/savecontainer.jpeg
+    image_path: /assets/images/savecontainer.jpeg
     alt: "Gameplay 3"
-    title: "Kill Switch"
-    caption: "Kill Switch"
+    title: "Warehouse Metal Containers"
+    caption: "Warehouse Metal Containers"
 ---
 
 This page is another project page that is nested within Projects.

@@ -25,7 +25,7 @@ gallery_floors:
     title: "Kill Switch"
     caption: "Kill Switch"
 
-    gallery_Warehouse:
+ gallery_Warehouse:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/savewarehouseone.jpeg
     image_path: /assets/images/savewarehouseone.jpeg

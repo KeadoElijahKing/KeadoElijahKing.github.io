@@ -56,18 +56,14 @@ gallery_bike:
   - url: /assets/images/speeder bike.png
     image_path: /assets/images/speeder bike.png
     alt: "Gameplay 1"
-    title: "Cat"
-    caption: "Cat"
-  - url: /assets/images/ngkart.png
-    image_path: /assets/images/ngkart.png
+    title: "Model"
+    caption: "Model"
+  - url: /assets/images/ngbikepainted.png
+    image_path: /assets/images/ngbikepainted.png
     alt: "Gameplay 2"
-    title: "Kart"
-    caption: "Kart"
-  - url: /assets/images/ngcatinkart.png
-    image_path: /assets/images/ngcatinkart.png
-    alt: "Gameplay 3"
-    title: "Cat In Kart"
-    caption: "Cat In Kart"
+    title: "Painted"
+    caption: "Painted"
+
 
 ---
 

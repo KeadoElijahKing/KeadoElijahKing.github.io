@@ -64,7 +64,23 @@ gallery_bank:
     alt: "Gameplay 3"
     title: "Safe"
     caption: "Safe"
-
+gallery_shop:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/savebank.jpeg
+    image_path: /assets/images/savebank.jpeg
+    alt: "Gameplay 1"
+    title: "Bank"
+    caption: "Bank"
+  - url: /assets/images/saveats.jpeg
+    image_path: /assets/images/saveats.jpeg
+    alt: "Gameplay 2"
+    title: "ATM's"
+    caption: "ATM's"
+  - url: /assets/images/saevsafe.jpeg
+    image_path: /assets/images/saevsafe.jpeg
+    alt: "Gameplay 3"
+    title: "Safe"
+    caption: "Safe"
     
 ---
 
@@ -73,3 +89,4 @@ This page is another project page that is nested within Projects.
 {% include gallery id="gallery_floors" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Warehouse" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_bank" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_shop" layout="third" thumb_height="180px" %}

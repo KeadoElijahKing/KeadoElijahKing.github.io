@@ -13,11 +13,11 @@ gallery_ship:
     alt: "Gameplay 1"
     title: "Board"
     caption: "Board"
-  - url: /assets/images/savefloor2.jpeg
-    image_path: /assets/images/savefloor2.jpeg
+  - url: /assets/images/ngshipmodel.jpeg
+    image_path: /assets/images/ngshipmodel.jpeg
     alt: "Gameplay 2"
-    title: "Level Two"
-    caption: "Level Two"
+    title: "Model"
+    caption: "Model"
   - url: /assets/images/saevkillswitch.jpeg
     image_path: /assets/images/saevkillswitch.jpeg
     alt: "Gameplay 3"

@@ -9,3 +9,4 @@ sidebar:
 ---
 
 This page is another project page that is nested within Projects.
+save,floor1.jpeg

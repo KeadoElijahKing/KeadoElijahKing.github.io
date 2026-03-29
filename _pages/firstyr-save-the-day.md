@@ -97,21 +97,21 @@ gallery_Others:
 
 gallery_railcode:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/saevammocrate.jpeg
-    image_path: /assets/images/saevammocrate.jpeg
+  - url: /assets/images/savecodegrndrail.jpeg
+    image_path: /assets/images/savecodegrndrail.jpeg
     alt: "Gameplay 1"
-    title: "Ammo Crate"
-    caption: "Ammo Crate"
+    title: "Rail Code Part One"
+    caption: "Rail Code Part One"
   - url: /assets/images/saevtrain.jpeg
     image_path: /assets/images/saevtrain.jpeg
     alt: "Gameplay 2"
-    title: "Train"
-    caption: "Train"
+    title: "Rail Code Part Two"
+    caption: "Rail Code Part Two"
   - url: /assets/images/savecupboard.jpeg
     image_path: /assets/images/savecupboard.jpeg
     alt: "Gameplay 3"
-    title: "Cupboard"
-    caption: "Cupboard"
+    title: "Rail Code Part Three"
+    caption: "Rail Code Part Three"
 ---
 
 This page is another project page that is nested within Projects.

@@ -12,18 +12,18 @@ gallery_floors:
   - url: /assets/images/save,floor1.jpeg
     image_path: /assets/images/save,floor1.jpeg
     alt: "Gameplay 1"
-    title: "Photoshop"
-    caption: "Photoshop"
+    title: "Level One"
+    caption: "Level One"
   - url: /assets/images/savefloor2.jpeg
     image_path: /assets/images/savefloor2.jpeg
     alt: "Gameplay 2"
-    title: "Story-Board"
-    caption: "Story-Board"
+    title: "Level Two"
+    caption: "Level Two"
   - url: /assets/images/saevkillswitch.jpeg
     image_path: /assets/images/saevkillswitch.jpeg
     alt: "Gameplay 3"
-    title: "Model"
-    caption: "Model"
+    title: "Kill Switch"
+    caption: "Kill Switch"
 ---
 
 This page is another project page that is nested within Projects.

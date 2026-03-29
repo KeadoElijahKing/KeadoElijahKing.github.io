@@ -18,11 +18,11 @@ gallery_ship:
     alt: "Gameplay 2"
     title: "Model"
     caption: "Model"
-  - url: /assets/images/saevkillswitch.jpeg
-    image_path: /assets/images/saevkillswitch.jpeg
+  - url: /assets/images/ngfrontship.jpeg
+    image_path: /assets/images/ngfrontship.jpeg
     alt: "Gameplay 3"
-    title: "Kill Switch"
-    caption: "Kill Switch"
+    title: "Ship Front"
+    caption: "Ship Front"
   - url: /assets/images/saevkillswitch.jpeg
     image_path: /assets/images/saevkillswitch.jpeg
     alt: "Gameplay 3"

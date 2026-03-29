@@ -94,6 +94,24 @@ gallery_Others:
     alt: "Gameplay 3"
     title: "Cupboard"
     caption: "Cupboard"
+
+gallery_railcode:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/saevammocrate.jpeg
+    image_path: /assets/images/saevammocrate.jpeg
+    alt: "Gameplay 1"
+    title: "Ammo Crate"
+    caption: "Ammo Crate"
+  - url: /assets/images/saevtrain.jpeg
+    image_path: /assets/images/saevtrain.jpeg
+    alt: "Gameplay 2"
+    title: "Train"
+    caption: "Train"
+  - url: /assets/images/savecupboard.jpeg
+    image_path: /assets/images/savecupboard.jpeg
+    alt: "Gameplay 3"
+    title: "Cupboard"
+    caption: "Cupboard"
 ---
 
 This page is another project page that is nested within Projects.
@@ -103,3 +121,4 @@ This page is another project page that is nested within Projects.
 {% include gallery id="gallery_bank" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_shop" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Others" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_railcode" layout="third" thumb_height="180px" %}

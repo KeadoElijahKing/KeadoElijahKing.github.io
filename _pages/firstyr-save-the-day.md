@@ -83,12 +83,12 @@ gallery_Others:
     image_path: /assets/images/saevammocrate.jpeg
     alt: "Gameplay 1"
     title: "Ammo Crate"
-    caption: "Shop"
-  - url: /assets/images/savefruit.jpeg
-    image_path: /assets/images/savefruit.jpeg
+    caption: "Ammo Crate"
+  - url: /assets/images/saevtrain.jpeg
+    image_path: /assets/images/saevtrain.jpeg
     alt: "Gameplay 2"
-    title: "Fruit"
-    caption: "Fruit"
+    title: "Train"
+    caption: "Train"
   - url: /assets/images/saevsafe.jpeg
     image_path: /assets/images/saevsafe.jpeg
     alt: "Gameplay 3"

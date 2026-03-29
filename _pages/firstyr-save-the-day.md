@@ -7,7 +7,7 @@ sidebar:
   nav:
     - firstyr
     #
-    gallery_floors:
+gallery_floors:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/save,floor1.jpeg
     image_path: /assets/images/save,floor1.jpeg

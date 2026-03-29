@@ -23,11 +23,11 @@ gallery_ship:
     alt: "Gameplay 3"
     title: "Ship Front"
     caption: "Ship Front"
-  - url: /assets/images/saevkillswitch.jpeg
-    image_path: /assets/images/saevkillswitch.jpeg
+  - url: /assets/images/ngbackship.jpeg
+    image_path: /assets/images/ngbackship.jpeg
     alt: "Gameplay 3"
-    title: "Kill Switch"
-    caption: "Kill Switch"
+    title: "Ship Back"
+    caption: "Ship Back"
 
 ---
 

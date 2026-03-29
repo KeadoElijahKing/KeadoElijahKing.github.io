@@ -37,8 +37,8 @@ gallery_Warehouse:
     alt: "Gameplay 2"
     title: "Level Two"
     caption: "Level Two"
-  - url: /assets/images/saevkillswitch.jpeg
-    image_path: /assets/images/saevkillswitch.jpeg
+  - url: /assets/images/savewarehouseshelves.jpeg
+    image_path: /assets/images/savewarehouseshelves.jpeg
     alt: "Gameplay 3"
     title: "Kill Switch"
     caption: "Kill Switch"

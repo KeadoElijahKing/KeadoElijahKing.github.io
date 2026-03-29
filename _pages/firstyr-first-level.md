@@ -60,6 +60,41 @@ gallery_assets:
     alt: "Gameplay 2"
     title: "House"
     caption: "House"
+gallery_wall:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/1stcastlegate.jpeg
+    image_path: /assets/images/1stcastlegate.jpeg
+    alt: "Gameplay 1"
+    title: "Castle Gate"
+    caption: "Castle Gate"
+  - url: /assets/images/1stwalpillars.jpeg
+    image_path: /assets/images/1stwalpillars.jpeg
+    alt: "Gameplay 2"
+    title: "Pillars"
+    caption: "Pillars"
+  - url: /assets/images/1stwall.jpeg
+    image_path: /assets/images/1stwall.jpeg
+    alt: "Gameplay 2"
+    title: "Wall"
+    caption: "Wall"
+gallery_teleporter:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/1stteleporter.jpeg
+    image_path: /assets/images/1stteleporter.jpeg
+    alt: "Gameplay 1"
+    title: "Teleporter"
+    caption: "Teleporter"
+  - url: /assets/images/1stteleporterscript.jpeg
+    image_path: /assets/images/1stteleporterscript.jpeg
+    alt: "Gameplay 2"
+    title: "Teleporter Script"
+    caption: "Teleporter Script"
+  - url: /assets/images1stappearscript.jpeg
+    image_path: /assets/images/1stappearscript.jpeg
+    alt: "Gameplay 2"
+    title: "Appear Script"
+    caption: "Appear Script"
+    
 ---
 
 This page is another project page that is nested within Projects.
@@ -68,18 +103,7 @@ This page is another project page that is nested within Projects.
 {% include gallery id="gallery_level" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_level2" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_assets" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_wall" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery__teleporter" layout="third" thumb_height="180px" %}
 
-
-
-
-
-{% include figure image_path="/assets/images/1stcastlegate.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stwalpillars.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stwall.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stteleporter.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stteleporterscript.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stappearscript.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stchangedilouge.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stdilougescript.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/1stpausemenu.jpeg" alt="Game Jam screenshot" caption="This is a caption" %}
 

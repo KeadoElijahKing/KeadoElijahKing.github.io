@@ -66,11 +66,11 @@ gallery_bank:
     caption: "Safe"
 gallery_shop:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/savebank.jpeg
-    image_path: /assets/images/savebank.jpeg
+  - url: /assets/images/saveshop.jpeg
+    image_path: /assets/images/saveshop.jpeg
     alt: "Gameplay 1"
-    title: "Bank"
-    caption: "Bank"
+    title: "Shop"
+    caption: "Shop"
   - url: /assets/images/saveats.jpeg
     image_path: /assets/images/saveats.jpeg
     alt: "Gameplay 2"

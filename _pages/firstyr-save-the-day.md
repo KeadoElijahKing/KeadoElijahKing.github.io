@@ -71,11 +71,11 @@ gallery_shop:
     alt: "Gameplay 1"
     title: "Shop"
     caption: "Shop"
-  - url: /assets/images/saveats.jpeg
-    image_path: /assets/images/saveats.jpeg
+  - url: /assets/images/savefruit.jpeg
+    image_path: /assets/images/savefruit.jpeg
     alt: "Gameplay 2"
-    title: "ATM's"
-    caption: "ATM's"
+    title: "Fruit"
+    caption: "Fruit"
   - url: /assets/images/saevsafe.jpeg
     image_path: /assets/images/saevsafe.jpeg
     alt: "Gameplay 3"

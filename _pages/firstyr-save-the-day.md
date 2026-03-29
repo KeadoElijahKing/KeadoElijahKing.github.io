@@ -107,8 +107,8 @@ gallery_railcode:
     alt: "Gameplay 2"
     title: "Rail Code Part Two"
     caption: "Rail Code Part Two"
-  - url: /assets/images/savecupboard.jpeg
-    image_path: /assets/images/savecupboard.jpeg
+  - url: /assets/images/savecodegrindrail3.jpeg
+    image_path: /assets/images/savecodegrindrail3.jpeg
     alt: "Gameplay 3"
     title: "Rail Code Part Three"
     caption: "Rail Code Part Three"

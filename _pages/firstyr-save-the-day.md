@@ -52,18 +52,18 @@ gallery_bank:
   - url: /assets/images/savebank.jpeg
     image_path: /assets/images/savebank.jpeg
     alt: "Gameplay 1"
-    title: "Level One"
-    caption: "Level One"
+    title: "Bank"
+    caption: "Bank"
   - url: /assets/images/saveats.jpeg
     image_path: /assets/images/saveats.jpeg
     alt: "Gameplay 2"
-    title: "Level Two"
-    caption: "Level Two"
-  - url: /assets/images/saevkillswitch.jpeg
-    image_path: /assets/images/saevkillswitch.jpeg
+    title: "ATM's"
+    caption: "ATM's"
+  - url: /assets/images/saevsafe.jpeg
+    image_path: /assets/images/saevsafe.jpeg
     alt: "Gameplay 3"
-    title: "Kill Switch"
-    caption: "Kill Switch"
+    title: "Safe"
+    caption: "Safe"
 
     
 ---

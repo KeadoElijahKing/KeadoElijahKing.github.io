@@ -27,8 +27,8 @@ gallery_floors:
 
     gallery_Warehouse:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/save,floor1.jpeg
-    image_path: /assets/images/save,floor1.jpeg
+  - url: /assets/images/savewarehouseone.jpeg
+    image_path: /assets/images/savewarehouseone.jpeg
     alt: "Gameplay 1"
     title: "Level One"
     caption: "Level One"

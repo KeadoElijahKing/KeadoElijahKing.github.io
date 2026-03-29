@@ -32,12 +32,17 @@ gallery_floors:
     alt: "Gameplay 1"
     title: "Level One"
     caption: "Level One"
-  - url: /assets/images/savefloor2.jpeg
-    image_path: /assets/images/savefloor2.jpeg
+  - url: /assets/images/savewarehouse2.jpeg
+    image_path: /assets/images/savewarehouse2.jpeg
     alt: "Gameplay 2"
     title: "Level Two"
     caption: "Level Two"
   - url: /assets/images/saevkillswitch.jpeg
+    image_path: /assets/images/saevkillswitch.jpeg
+    alt: "Gameplay 3"
+    title: "Kill Switch"
+    caption: "Kill Switch"
+ - url: /assets/images/saevkillswitch.jpeg
     image_path: /assets/images/saevkillswitch.jpeg
     alt: "Gameplay 3"
     title: "Kill Switch"

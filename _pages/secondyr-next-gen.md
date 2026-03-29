@@ -31,11 +31,11 @@ gallery_ship:
 
 gallery_kart:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/ngbrainstorm.jpeg
-    image_path: /assets/images/ngbrainstorm.jpeg
+  - url: /assets/images/ngcat.png
+    image_path: /assets/images/ngcat.png
     alt: "Gameplay 1"
-    title: "Board"
-    caption: "Board"
+    title: "Cat"
+    caption: "Cat"
   - url: /assets/images/ngshipmodel.jpeg
     image_path: /assets/images/ngshipmodel.jpeg
     alt: "Gameplay 2"

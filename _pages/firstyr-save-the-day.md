@@ -102,8 +102,8 @@ gallery_railcode:
     alt: "Gameplay 1"
     title: "Rail Code Part One"
     caption: "Rail Code Part One"
-  - url: /assets/images/saevtrain.jpeg
-    image_path: /assets/images/saevtrain.jpeg
+  - url: /assets/images/saecodegrindrail2.jpeg
+    image_path: /assets/images/saecodegrindrail2.jpeg
     alt: "Gameplay 2"
     title: "Rail Code Part Two"
     caption: "Rail Code Part Two"

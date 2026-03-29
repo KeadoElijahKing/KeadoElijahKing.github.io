@@ -79,10 +79,10 @@ gallery_shop:
 
 gallery_Others:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/saveshop.jpeg
-    image_path: /assets/images/saveshop.jpeg
+  - url: /assets/images/saevammocrate.jpeg
+    image_path: /assets/images/saevammocrate.jpeg
     alt: "Gameplay 1"
-    title: "Shop"
+    title: "Ammo Crate"
     caption: "Shop"
   - url: /assets/images/savefruit.jpeg
     image_path: /assets/images/savefruit.jpeg

@@ -19,11 +19,11 @@ gallery_Towers:
     alt: "Gameplay 2"
     title: "Machine Gun Tower"
     caption: "Machine Gun Tower"
-  - url: /assets/images/C2Drift.png
-    image_path: /assets/images/C2Drift.png
+  - url: /assets/images/depistoltower.png
+    image_path: /assets/images/depistoltower.png
     alt: "Gameplay 2"
-    title: "Rift"
-    caption: "rift"
+    title: "Pistol Tower"
+    caption: "Pistol Tower"
   - url: /assets/images/C2Drift.png
     image_path: /assets/images/C2Drift.png
     alt: "Gameplay 2"

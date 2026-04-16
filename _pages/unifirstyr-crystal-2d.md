@@ -26,11 +26,11 @@ gallery_enemy:
     caption: "rift"
 gallery_CharacterandHealth:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/C2Denemy.png
-    image_path: /assets/images/C2Denemy.png
+  - url: /assets/images/C2Dkolby.png
+    image_path: /assets/images/C2Dkolby.png
     alt: "Gameplay 1"
-    title: "Enemy"
-    caption: "Enemy"
+    title: "Kolby"
+    caption: Kolby"
   - url: /assets/images/C2Dfireball.png
     image_path: /assets/images/C2Dfireball.png
     alt: "Gameplay 2"

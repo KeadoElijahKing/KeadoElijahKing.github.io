@@ -31,11 +31,11 @@ gallery_CharacterandHealth:
     alt: "Gameplay 1"
     title: "Kolby"
     caption: Kolby"
-  - url: /assets/images/C2Dfireball.png
-    image_path: /assets/images/C2Dfireball.png
+  - url: /assets/images/C2Dheart.png
+    image_path: /assets/images/C2Dheart.png
     alt: "Gameplay 2"
-    title: "Fireball"
-    caption: "Fireball"
+    title: "Health Collectible"
+    caption: "Health Collectible"
 ---
 
 {% include gallery id="gallery_enemy" layout="third" thumb_height="180px" %}

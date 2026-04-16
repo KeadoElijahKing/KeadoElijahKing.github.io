@@ -64,11 +64,11 @@ gallery_Trees:
     caption: "Alien Exotic Tree 2 "
 gallery_Buildings:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/C3Dmapletree.png
-    image_path: /assets/images/C3Dmapletree.png
+  - url: /assets/images/C3Dspaceport.png
+    image_path: /assets/images/C3Dspaceport.png
     alt: "Gameplay 1"
-    title: "Maple Tree"
-    caption: "Maple Tree"
+    title: "Spaceport"
+    caption: "Spaceport"
   - url: /assets/images/C3Dtree.png
     image_path: /assets/images/C3Dtree.png
     alt: "Gameplay 2"

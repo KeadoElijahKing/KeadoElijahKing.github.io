@@ -114,8 +114,8 @@ gallery_Others:
     alt: "Gameplay 1"
     title: "Win Screen"
     caption: "Win Screen"
-  - url: /assets/images/deroadhorizntal 3.png
-    image_path: /assets/images/deroadhorizntal 3.png
+  - url: /assets/images/delosescreen.png
+    image_path: /assets/images/delosescreen.png
     alt: "Gameplay 2"
     title: "Lose Screen"
     caption: "Lose Screen"

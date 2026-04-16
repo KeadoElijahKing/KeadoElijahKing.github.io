@@ -14,11 +14,11 @@ gallery_Towers:
     alt: "Gameplay 1"
     title: "Archer Tower"
     caption: "Archer Tower"
-  - url: /assets/images/C2Dfireball.png
-    image_path: /assets/images/C2Dfireball.png
+  - url: /assets/images/demachineguntower.png
+    image_path: /assets/images/demachineguntower.png
     alt: "Gameplay 2"
-    title: "Fireball"
-    caption: "Fireball"
+    title: "Machine Gun Tower"
+    caption: "Machine Gun Tower"
   - url: /assets/images/C2Drift.png
     image_path: /assets/images/C2Drift.png
     alt: "Gameplay 2"

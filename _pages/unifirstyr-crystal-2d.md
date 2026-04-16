@@ -36,7 +36,7 @@ gallery_CharacterandHealth:
     alt: "Gameplay 2"
     title: "Health Collectible"
     caption: "Health Collectible"
-gallery_Tilemaps&backgroundassets:
+ gallery_Tilemaps&backgroundassets:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/C2Dtilemaps.png
     image_path: /assets/images/C2Dtilemaps.png

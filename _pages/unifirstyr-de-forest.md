@@ -106,7 +106,24 @@ gallery_Roads:
     alt: "Gameplay 2"
     title: "Level Five Road"
     caption: "Level Five Road"
-    
+
+gallery_Others:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/deroadcurve 1.png
+    image_path: /assets/images/deroadcurve 1.png
+    alt: "Gameplay 1"
+    title: "Win Screen"
+    caption: "Win Screen"
+  - url: /assets/images/deroadhorizntal 3.png
+    image_path: /assets/images/deroadhorizntal 3.png
+    alt: "Gameplay 2"
+    title: "Lose Screen"
+    caption: "Lose Screen"
+  - url: /assets/images/deroadvertical 5.png
+    image_path: /assets/images/deroadvertical 5.png
+    alt: "Gameplay 2"
+    title: "Fireflies"
+    caption: "Fireflies"
 ---
 
 {% include gallery id="gallery_Towers" layout="third" thumb_height="180px" %}
@@ -114,4 +131,5 @@ gallery_Roads:
 {% include gallery id="gallery_Barriers" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Traps" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Roads" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Others" layout="third" thumb_height="180px" %}
 

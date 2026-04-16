@@ -55,21 +55,21 @@ gallery_Thingsthathit:
 
 gallery_Barriers:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/dearchertowertopdown.png
-    image_path: /assets/images/dearchertowertopdown.png
+  - url: /assets/images/debarrierbottom.png
+    image_path: /assets/images/debarrierbottom.png
     alt: "Gameplay 1"
-    title: "Archer Tower"
-    caption: "Archer Tower"
+    title: "Level One Barrier"
+    caption: "Level One Barrier"
   - url: /assets/images/demachineguntower.png
     image_path: /assets/images/demachineguntower.png
     alt: "Gameplay 2"
-    title: "Machine Gun Tower"
-    caption: "Machine Gun Tower"
+    title: "Level Three Barrier"
+    caption: "Level Three Barrier"
   - url: /assets/images/depistoltower.png
     image_path: /assets/images/depistoltower.png
     alt: "Gameplay 2"
-    title: "Pistol Tower"
-    caption: "Pistol Tower"
+    title: "Level Five Barrier"
+    caption: "Level Five Barrier"
     
 ---
 

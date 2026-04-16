@@ -2,7 +2,7 @@
 ---
 title: "Crystallisation 3D"
 layout: single
-permalink: /firstyr/C3D/
+permalink: /secondyr/C3D/
 sidebar:
   title: "Second Year College"
   nav:

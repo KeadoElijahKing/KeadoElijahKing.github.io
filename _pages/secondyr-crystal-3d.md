@@ -11,18 +11,18 @@ gallery_MainCharacters:
   - url: /assets/images/C3Dkeado.png
     image_path: /assets/images/C3Dkeado.png
     alt: "Gameplay 1"
-    title: "Photoshop"
-    caption: "Photoshop"
-  - url: /assets/images/hachairstoryboard.jpeg
-    image_path: /assets/images/hachairstoryboard.jpeg
+    title: "Keado"
+    caption: "Keado"
+  - url: /assets/images/C3Dspaceship1.png
+    image_path: /assets/images/C3Dspaceship1.png
     alt: "Gameplay 2"
-    title: "Story-Board"
-    caption: "Story-Board"
+    title: "Keado's Ship"
+    caption: "Keado's Ship"
   - url: /assets/images/hachairmodel.jpeg
     image_path: /assets/images/hachairmodel.jpeg
     alt: "Gameplay 3"
-    title: "Model"
-    caption: "Model"
+    title: "Stolen Ship"
+    caption: "Stolen Ship"
 ---
 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}

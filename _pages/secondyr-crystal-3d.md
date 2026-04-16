@@ -18,8 +18,8 @@ gallery_MainCharacters:
     alt: "Gameplay 2"
     title: "Keado's Ship"
     caption: "Keado's Ship"
-  - url: /assets/images/hachairmodel.jpeg
-    image_path: /assets/images/hachairmodel.jpeg
+  - url: /assets/images/C3Dspaceship2.png
+    image_path: /assets/images/C3Dspaceship2.png
     alt: "Gameplay 3"
     title: "Stolen Ship"
     caption: "Stolen Ship"

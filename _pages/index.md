@@ -20,10 +20,10 @@ feature_row:
     alt: "Keado"
     title: "Keado"
     excerpt: "This is Keado, the main protagonist from Crystallisation 3D."
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/C3Dspaceship1.png
+    alt: "Keados Ship"
+    title: "Keados Ship"
+    excerpt: "This is the ship Keado recieves after his first mission"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"

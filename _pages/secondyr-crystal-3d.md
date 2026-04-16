@@ -85,3 +85,4 @@ gallery_Buildings:
 {% include gallery id="gallery_Vegatation" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Trees" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Buildings" layout="third" thumb_height="180px" %}
+{% include video id="DfIt12rWFEo" provider="youtube" %}

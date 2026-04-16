@@ -100,23 +100,7 @@ gallery_Others:
     title: "Cupboard"
     caption: "Cupboard"
 
-gallery_railcode:
-  # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/savecodegrndrail.jpeg
-    image_path: /assets/images/savecodegrndrail.jpeg
-    alt: "Gameplay 1"
-    title: "Rail Code Part One"
-    caption: "Rail Code Part One"
-  - url: /assets/images/saecodegrindrail2.jpeg
-    image_path: /assets/images/saecodegrindrail2.jpeg
-    alt: "Gameplay 2"
-    title: "Rail Code Part Two"
-    caption: "Rail Code Part Two"
-  - url: /assets/images/savecodegrindrail3.jpeg
-    image_path: /assets/images/savecodegrindrail3.jpeg
-    alt: "Gameplay 3"
-    title: "Rail Code Part Three"
-    caption: "Rail Code Part Three"
+
 ---
 
 This page is another project page that is nested within Projects.
@@ -126,4 +110,3 @@ This page is another project page that is nested within Projects.
 {% include gallery id="gallery_bank" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_shop" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Others" layout="third" thumb_height="180px" %}
-{% include gallery id="gallery_railcode" layout="third" thumb_height="180px" %}

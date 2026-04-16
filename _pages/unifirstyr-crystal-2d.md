@@ -37,7 +37,7 @@ gallery_CharacterandHealth:
     title: "Health Collectible"
     caption: "Health Collectible"
 gallery_Tilemaps&backgroundassets:
-  # Recommended: width "360px" to "480px" keeps a neat grid
+   # Recommended: width "360px" to "480px" keeps a neat grid
    - url: /assets/images/C2Dtilemaps.png
     image_path: /assets/images/C2Dtilemaps.png
     alt: "Gameplay 1"
@@ -58,6 +58,7 @@ gallery_Tilemaps&backgroundassets:
     alt: "Gameplay 2"
     title: "Ladder"
     caption: "Ladder"
+
 ---
 
 {% include gallery id="gallery_enemy" layout="third" thumb_height="180px" %}

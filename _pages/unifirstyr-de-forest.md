@@ -47,8 +47,8 @@ gallery_Thingsthathit:
     alt: "Gameplay 2"
     title: "Bullet"
     caption: "Bullet"
-  - url: /assets/images/depistoltower.png
-    image_path: /assets/images/depistoltower.png
+  - url: /assets/images/desword.png
+    image_path: /assets/images/desword.png
     alt: "Gameplay 2"
     title: "Sword"
     caption: "Sword"

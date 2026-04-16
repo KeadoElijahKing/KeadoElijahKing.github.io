@@ -31,8 +31,8 @@ gallery_Vegtation:
     alt: "Gameplay 1"
     title: "Grass"
     caption: "Grass"
-  - url: /assets/images/C3Dspaceship1.png
-    image_path: /assets/images/C3Dspaceship1.png
+  - url: /assets/images/C3Dfern.png
+    image_path: /assets/images/C3Dfern.png
     alt: "Gameplay 2"
     title: "Plant"
     caption: "Plant"

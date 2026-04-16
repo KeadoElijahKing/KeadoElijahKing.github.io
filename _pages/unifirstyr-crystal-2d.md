@@ -19,6 +19,11 @@ gallery_enemy:
     alt: "Gameplay 2"
     title: "Fireball"
     caption: "Fireball"
+  - url: /assets/images/C2Drift.png
+    image_path: /assets/images/C2Drift.png
+    alt: "Gameplay 2"
+    title: "Rift"
+    caption: "rift"
 
 ---
 

@@ -24,7 +24,19 @@ gallery_enemy:
     alt: "Gameplay 2"
     title: "Rift"
     caption: "rift"
-
+gallery_CharacterandHealth:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/C2Denemy.png
+    image_path: /assets/images/C2Denemy.png
+    alt: "Gameplay 1"
+    title: "Enemy"
+    caption: "Enemy"
+  - url: /assets/images/C2Dfireball.png
+    image_path: /assets/images/C2Dfireball.png
+    alt: "Gameplay 2"
+    title: "Fireball"
+    caption: "Fireball"
 ---
 
 {% include gallery id="gallery_enemy" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_CharacterandHealth" layout="third" thumb_height="180px" %}

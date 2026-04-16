@@ -42,8 +42,8 @@ gallery_Thingsthathit:
     alt: "Gameplay 1"
     title: "Archer Arrow"
     caption: "Archer Arrow"
-  - url: /assets/images/demachineguntower.png
-    image_path: /assets/images/demachineguntower.png
+  - url: /assets/images/debullet.png
+    image_path: /assets/images/debullet.png
     alt: "Gameplay 2"
     title: "Bullet"
     caption: "Bullet"

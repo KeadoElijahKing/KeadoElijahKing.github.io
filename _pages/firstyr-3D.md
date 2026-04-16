@@ -62,9 +62,12 @@ gallery_dioramamushroom:
 
 On this page I will showcase the first project I ever had when I started my studies. It is a 3D Diorama of a cave filled with crystals and mushrooms inside the cave and around the entrance. On the outside of the cave there are various pieces of vegetation, including different colours of grass and trees. 
 {% include gallery id="gallery_diorama" layout="third" thumb_height="180px" %}
-abshdw
+Above you can see two iamges, they are both of my 3D Diorama, the first assignmentt I ever had. One is a zoomed in image showing the inside of the cave and the other is a zoomed out image showing the whole diorama.
 {% include gallery id="gallery_dioramagrass" layout="third" thumb_height="180px" %}
+In the images above I am showcasing the grass I craeted for my 3D diorama. They come in three different colours, a dark deep blue at the base rising into a lighter blue. A version with purple at the base rising into an orange and a basic grass enteriely green.
 {% include gallery id="gallery_dioramacrystal" layout="third" thumb_height="180px" %}
+These are the crystals I created for the 3D diorama, they come in a green and blue variant and a pink version.
 {% include gallery id="gallery_dioramamushroom" layout="third" thumb_height="180px" %}
-
+Then we have the mushroom that I created, its a simple mushroom with a deep purple colouration at its tip and a blue at its base.
 {% include video id="unP9But-MR0" provider="youtube" %}
+This is a video showing the 3D diorama in its entirety.

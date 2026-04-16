@@ -9,11 +9,11 @@ sidebar:
 
 gallery_Towers:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/C2Denemy.png
-    image_path: /assets/images/C2Denemy.png
+  - url: /assets/images/dearchertowertopdown.png
+    image_path: /assets/images/dearchertowertopdown.png
     alt: "Gameplay 1"
-    title: "Enemy"
-    caption: "Enemy"
+    title: "Archer Tower"
+    caption: "Archer Tower"
   - url: /assets/images/C2Dfireball.png
     image_path: /assets/images/C2Dfireball.png
     alt: "Gameplay 2"

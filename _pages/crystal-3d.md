@@ -6,7 +6,7 @@ permalink: /firstyr/C3D/
 sidebar:
   title: "First Year College"
   nav:
-    - first
+    - secondyr
 
     gallery_MainCharacters:
   # Recommended: width "360px" to "480px" keeps a neat grid

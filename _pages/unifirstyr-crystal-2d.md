@@ -39,11 +39,11 @@ gallery_CharacterandHealth:
 
 gallery_Tilemaps&backgroundassets:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/C2Dkolby.png
-    image_path: /assets/images/C2Dkolby.png
+  - url: /assets/images/C2Dtilemaps.png
+    image_path: /assets/images/C2Dtilemaps.png
     alt: "Gameplay 1"
-    title: "Kolby"
-    caption: "Kolby"
+    title: "Tilemaps"
+    caption: "Tilemaps"
   - url: /assets/images/C2Dheart.png
     image_path: /assets/images/C2Dheart.png
     alt: "Gameplay 2"

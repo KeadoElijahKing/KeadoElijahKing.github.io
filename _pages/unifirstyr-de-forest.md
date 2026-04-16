@@ -60,8 +60,8 @@ gallery_Barriers:
     alt: "Gameplay 1"
     title: "Level One Barrier"
     caption: "Level One Barrier"
-  - url: /assets/images/demachineguntower.png
-    image_path: /assets/images/demachineguntower.png
+  - url: /assets/images/debarrierbottom 3.png
+    image_path: /assets/images/debarrierbottom 3.png
     alt: "Gameplay 2"
     title: "Level Three Barrier"
     caption: "Level Three Barrier"

@@ -23,6 +23,25 @@ gallery_MainCharacters:
     alt: "Gameplay 3"
     title: "Stolen Ship"
     caption: "Stolen Ship"
+
+gallery_Vegtation:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/C3Dkeado.png
+    image_path: /assets/images/C3Dkeado.png
+    alt: "Gameplay 1"
+    title: "Grass"
+    caption: "Grass"
+  - url: /assets/images/C3Dspaceship1.png
+    image_path: /assets/images/C3Dspaceship1.png
+    alt: "Gameplay 2"
+    title: "Plant"
+    caption: "Plant"
+  - url: /assets/images/C3Dspaceship2.png
+    image_path: /assets/images/C3Dspaceship2.png
+    alt: "Gameplay 3"
+    title: "Mushroom"
+    caption: "Mushroom"
 ---
 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Vegtation" layout="third" thumb_height="180px" %}

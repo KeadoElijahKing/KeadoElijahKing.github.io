@@ -109,8 +109,8 @@ gallery_Roads:
 
 gallery_Others:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/deroadcurve 1.png
-    image_path: /assets/images/deroadcurve 1.png
+  - url: /assets/images/dewinscreen.png
+    image_path: /assets/images/dewinscreen.png
     alt: "Gameplay 1"
     title: "Win Screen"
     caption: "Win Screen"

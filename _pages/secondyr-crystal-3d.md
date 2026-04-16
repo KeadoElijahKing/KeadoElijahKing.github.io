@@ -6,8 +6,7 @@ sidebar:
   title: "Second Year College"
   nav:
     - secondyr
-    
-  gallery_MainCharacters:
+gallery_MainCharacters:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/C3Dkeado.png
     image_path: /assets/images/C3Dkeado.png

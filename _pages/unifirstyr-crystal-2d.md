@@ -30,7 +30,7 @@ gallery_CharacterandHealth:
     image_path: /assets/images/C2Dkolby.png
     alt: "Gameplay 1"
     title: "Kolby"
-    caption: Kolby"
+    caption: "Kolby"
   - url: /assets/images/C2Dheart.png
     image_path: /assets/images/C2Dheart.png
     alt: "Gameplay 2"

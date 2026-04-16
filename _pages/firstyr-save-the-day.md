@@ -64,8 +64,8 @@ gallery_bank:
     alt: "Gameplay 3"
     title: "Safe"
     caption: "Safe"
-  - url: /assets/images/ savecoin.png
-    image_path: /assets/images/ savecoin.png
+  - url: /assets/images/savecoin.png
+    image_path: /assets/images/savecoin.png
     alt: "Gameplay 3"
     title: "Coin"
     caption: "Coin"

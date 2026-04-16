@@ -65,8 +65,8 @@ gallery_Barriers:
     alt: "Gameplay 2"
     title: "Level Three Barrier"
     caption: "Level Three Barrier"
-  - url: /assets/images/depistoltower.png
-    image_path: /assets/images/depistoltower.png
+  - url: /assets/images/debarrierbottom 5.png
+    image_path: /assets/images/debarrierbottom 5.png
     alt: "Gameplay 2"
     title: "Level Five Barrier"
     caption: "Level Five Barrier"

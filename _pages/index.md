@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/saevtrain.jpeg
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "/assets/downloads/PaulKilbycv.pdf"
       target: "_blank"
 
 

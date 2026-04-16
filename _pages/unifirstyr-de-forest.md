@@ -119,8 +119,8 @@ gallery_Others:
     alt: "Gameplay 2"
     title: "Lose Screen"
     caption: "Lose Screen"
-  - url: /assets/images/deroadvertical 5.png
-    image_path: /assets/images/deroadvertical 5.png
+  - url: /assets/images/defireflies.png
+    image_path: /assets/images/defireflies.png
     alt: "Gameplay 2"
     title: "Fireflies"
     caption: "Fireflies"

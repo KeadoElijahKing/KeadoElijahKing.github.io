@@ -49,11 +49,11 @@ gallery_Trees:
     alt: "Gameplay 1"
     title: "Maple Tree"
     caption: "Maple Tree"
-  - url: /assets/images/C3Dfern.png
-    image_path: /assets/images/C3Dfern.png
+  - url: /assets/images/C3Dtree.png
+    image_path: /assets/images/C3Dtree.png
     alt: "Gameplay 2"
-    title: "Plant"
-    caption: "Plant"
+    title: "Green Tree"
+    caption: "Green Tree"
   - url: /assets/images/C3Dmushroom.png
     image_path: /assets/images/C3Dmushroom.png
     alt: "Gameplay 3"

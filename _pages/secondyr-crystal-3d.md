@@ -59,11 +59,11 @@ gallery_Trees:
     alt: "Gameplay 3"
     title: "Alien Exotic Tree"
     caption: "Alien Exotic Tree"
-  - url: /assets/images/C3Dmushroom.png
-    image_path: /assets/images/C3Dmushroom.png
+  - url: /assets/images/C3Dtree3.png
+    image_path: /assets/images/C3Dtree3.png
     alt: "Gameplay 3"
-    title: "Mushroom"
-    caption: "Mushroom"
+    title: "Alien Exotic Tree 2"
+    caption: "Alien Exotic Tree 2 "
 ---
 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}

@@ -83,8 +83,8 @@ gallery_Traps:
     alt: "Gameplay 2"
     title: "Spike Pit"
     caption: "Spike Pit"
-  - url: /assets/images/debarrierbottom 5.png
-    image_path: /assets/images/debarrierbottom 5.png
+  - url: /assets/images/despiketrap.png
+    image_path: /assets/images/despiketrap.png
     alt: "Gameplay 2"
     title: "Spike Bomb"
     caption: "Spike Bomb"

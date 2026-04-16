@@ -23,12 +23,12 @@ feature_row:
   - image_path: /assets/images/C3Dspaceship1.png
     alt: "Keados Ship"
     title: "Keados Ship"
-    excerpt: "This is the ship Keado recieves after his first mission"
+    excerpt: "This is the ship Keado recieves after his first mission."
     url: "#test-link"
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 4"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/1stboat.jpeg
+    alt: "Boat"
+    title: "Boat"
+    excerpt: "This is a boat that can be found in my first level."
 ---
 
 {% include feature_row id="intro" type="center" %}

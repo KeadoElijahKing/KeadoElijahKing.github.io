@@ -36,7 +36,30 @@ gallery_CharacterandHealth:
     alt: "Gameplay 2"
     title: "Health Collectible"
     caption: "Health Collectible"
+gallery_Tilemaps&backgroundassets:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/C2Dkolby.png
+    image_path: /assets/images/C2Dkolby.png
+    alt: "Gameplay 1"
+    title: "Kolby"
+    caption: "Kolby"
+  - url: /assets/images/C2Dheart.png
+    image_path: /assets/images/C2Dheart.png
+    alt: "Gameplay 2"
+    title: "Health Collectible"
+    caption: "Health Collectible"
+   - url: /assets/images/C2Dkolby.png
+    image_path: /assets/images/C2Dkolby.png
+    alt: "Gameplay 1"
+    title: "Kolby"
+    caption: "Kolby"
+   - url: /assets/images/C2Dheart.png
+    image_path: /assets/images/C2Dheart.png
+    alt: "Gameplay 2"
+    title: "Health Collectible"
+    caption: "Health Collectible"
 ---
 
 {% include gallery id="gallery_enemy" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_CharacterandHealth" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Tilemaps&backgroundassets" layout="third" thumb_height="180px" %}

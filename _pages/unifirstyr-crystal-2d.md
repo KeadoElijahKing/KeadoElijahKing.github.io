@@ -59,27 +59,10 @@ gallery_Tilemaps&backgroundassets:
     alt: "Gameplay 2"
     title: "Ladder"
     caption: "Ladder"
-gallery_Code:
-  # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/C2Dattackscript1.png
-    image_path: /assets/images/C2Dattackscript1.png
-    alt: "Gameplay 1"
-    title: "Attack Script 1"
-    caption: "Attack Script 1"
-  - url: /assets/images/C2Dattackscript2.png
-    image_path: /assets/images/C2Dattackscript2.png
-    alt: "Gameplay 2"
-    title: "Attack Script 2"
-    caption: "Attack Script 2"
-  - url: /assets/images/C2Dcheckpointscript.png
-    image_path: /assets/images/C2Dcheckpointscript.png
-    alt: "Gameplay 1"
-    title: "Checkpoint Script"
-    caption: "Checkpoint Script"
+
 
 ---
 
 {% include gallery id="gallery_enemy" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_CharacterandHealth" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Tilemaps&backgroundassets" layout="third" thumb_height="180px" %}
-{% include gallery id="gallery_Code" layout="third" thumb_height="180px" %}

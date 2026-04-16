@@ -24,11 +24,11 @@ gallery_Towers:
     alt: "Gameplay 2"
     title: "Pistol Tower"
     caption: "Pistol Tower"
-  - url: /assets/images/C2Drift.png
-    image_path: /assets/images/C2Drift.png
+  - url: /assets/images/debaseballtower.png
+    image_path: /assets/images/debaseballtower.png
     alt: "Gameplay 2"
-    title: "Rift"
-    caption: "rift"
+    title: "Baseball Tower"
+    caption: "Baseball Tower"
   - url: /assets/images/C2Drift.png
     image_path: /assets/images/C2Drift.png
     alt: "Gameplay 2"

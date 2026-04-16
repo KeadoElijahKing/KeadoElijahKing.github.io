@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Welcome to my portfolio. In these pages I will show my journey from the beginning when I was a neophyte starting in college, to a competent game designer starting at university.."
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:

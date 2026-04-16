@@ -54,11 +54,11 @@ gallery_Tilemaps&backgroundassets:
     alt: "Gameplay 1"
     title: "Lamppost"
     caption: "Lamppost"
-  - url: /assets/images/C2Dheart.png
-    image_path: /assets/images/C2Dheart.png
+  - url: /assets/images/C2Dladder.png
+    image_path: /assets/images/C2Dladder.png
     alt: "Gameplay 2"
-    title: "Health Collectible"
-    caption: "Health Collectible"
+    title: "Ladder"
+    caption: "Ladder"
 
 ---
 

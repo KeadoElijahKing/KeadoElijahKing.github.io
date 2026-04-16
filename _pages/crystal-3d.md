@@ -8,10 +8,10 @@ sidebar:
   nav:
     - first
 
-    gallery_hauntedchair:
+    gallery_MainCharacters:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/hachairphotoshop.jpeg
-    image_path: /assets/images/hachairphotoshop.jpeg
+  - url: /assets/images/C3Dkeado.png
+    image_path: /assets/images/C3Dkeado.png
     alt: "Gameplay 1"
     title: "Photoshop"
     caption: "Photoshop"
@@ -27,7 +27,7 @@ sidebar:
     caption: "Model"
 ---
 
-{% include gallery id="gallery_hauntedchair" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}
 jhgkjhb
 
 

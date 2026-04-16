@@ -91,8 +91,8 @@ gallery_Traps:
 
 gallery_Roads:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/debarrierbottom.png
-    image_path: /assets/images/debarrierbottom.png
+  - url: /assets/images/deroadcurve 1.png
+    image_path: /assets/images/deroadcurve 1.png
     alt: "Gameplay 1"
     title: "Level One Road"
     caption: "Level One Road"

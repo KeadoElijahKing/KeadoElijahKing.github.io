@@ -71,11 +71,11 @@ gallery_Code:
     alt: "Gameplay 2"
     title: "Attack Script 2"
     caption: "Attack Script 2"
-  - url: /assets/images/C2Dlampost.png
-    image_path: /assets/images/C2Dlampost.png
+  - url: /assets/images/C2Dcheckpointscript.png
+    image_path: /assets/images/C2Dcheckpointscript.png
     alt: "Gameplay 1"
-    title: "Lamppost"
-    caption: "Lamppost"
+    title: "Checkpoint Script"
+    caption: "Checkpoint Script"
 
 ---
 

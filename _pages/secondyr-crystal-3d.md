@@ -74,6 +74,11 @@ gallery_Buildings:
     alt: "Gameplay 2"
     title: "Apartments"
     caption: "Apartments"
+  - url: /assets/images/C3Dappartments.png
+    image_path: /assets/images/C3Dappartments.png
+    alt: "Gameplay 2"
+    title: "Apartments"
+    caption: "Apartments"
 ---
 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}

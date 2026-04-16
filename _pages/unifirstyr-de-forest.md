@@ -70,9 +70,48 @@ gallery_Barriers:
     alt: "Gameplay 2"
     title: "Level Five Barrier"
     caption: "Level Five Barrier"
+
+gallery_Traps:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/debarrierbottom.png
+    image_path: /assets/images/debarrierbottom.png
+    alt: "Gameplay 1"
+    title: "Oil Pit"
+    caption: "Oil Pit"
+  - url: /assets/images/debarrierbottom 3.png
+    image_path: /assets/images/debarrierbottom 3.png
+    alt: "Gameplay 2"
+    title: "Spike Pit"
+    caption: "Spike Pit"
+  - url: /assets/images/debarrierbottom 5.png
+    image_path: /assets/images/debarrierbottom 5.png
+    alt: "Gameplay 2"
+    title: "Spike Bomb"
+    caption: "Spike Bomb"
+
+gallery_Roads:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/debarrierbottom.png
+    image_path: /assets/images/debarrierbottom.png
+    alt: "Gameplay 1"
+    title: "Level One Road"
+    caption: "Level One Road"
+  - url: /assets/images/debarrierbottom 3.png
+    image_path: /assets/images/debarrierbottom 3.png
+    alt: "Gameplay 2"
+    title: "Level Three Road"
+    caption: "Level Three Road"
+  - url: /assets/images/debarrierbottom 5.png
+    image_path: /assets/images/debarrierbottom 5.png
+    alt: "Gameplay 2"
+    title: "Level Five Road"
+    caption: "Level Five Road"
     
 ---
 
 {% include gallery id="gallery_Towers" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Thingsthathit" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Barriers" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Traps" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Roads" layout="third" thumb_height="180px" %}
+

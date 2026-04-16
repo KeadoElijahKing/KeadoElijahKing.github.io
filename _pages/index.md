@@ -25,8 +25,6 @@ feature_row:
     title: "Keados Ship"
     excerpt: "This is the ship Keado recieves after his first mission"
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 4"
     title: "Placeholder 3"

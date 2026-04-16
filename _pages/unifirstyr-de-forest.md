@@ -73,8 +73,8 @@ gallery_Barriers:
 
 gallery_Traps:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/debarrierbottom.png
-    image_path: /assets/images/debarrierbottom.png
+  - url: /assets/images/deoilpit.png
+    image_path: /assets/images/deoilpit.png
     alt: "Gameplay 1"
     title: "Oil Pit"
     caption: "Oil Pit"

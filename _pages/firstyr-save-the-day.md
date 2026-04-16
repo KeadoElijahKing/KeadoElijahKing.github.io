@@ -120,7 +120,7 @@ gallery_railcode:
 ---
 
 This page is another project page that is nested within Projects.
-
+{% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
 {% include gallery id="gallery_floors" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Warehouse" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_bank" layout="third" thumb_height="180px" %}

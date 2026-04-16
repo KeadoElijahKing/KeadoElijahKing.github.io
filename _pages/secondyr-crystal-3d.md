@@ -23,8 +23,7 @@ gallery_MainCharacters:
     alt: "Gameplay 3"
     title: "Stolen Ship"
     caption: "Stolen Ship"
-
-gallery_Vegtation:
+gallery_Vegatation:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/C3Dgrass.png
     image_path: /assets/images/C3Dgrass.png
@@ -41,7 +40,6 @@ gallery_Vegtation:
     alt: "Gameplay 3"
     title: "Mushroom"
     caption: "Mushroom"
-
 gallery_Trees:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/C3Dmapletree.png
@@ -67,5 +65,5 @@ gallery_Trees:
 ---
 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}
-{% include gallery id="gallery_Vegtation" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Vegatation" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Trees" layout="third" thumb_height="180px" %}

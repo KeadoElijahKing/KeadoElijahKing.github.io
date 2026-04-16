@@ -7,7 +7,7 @@ sidebar:
   nav:
     - unifirstyr
 
-gallery_enemy:
+gallery_Towers:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/C2Denemy.png
     image_path: /assets/images/C2Denemy.png
@@ -24,6 +24,16 @@ gallery_enemy:
     alt: "Gameplay 2"
     title: "Rift"
     caption: "rift"
+  - url: /assets/images/C2Drift.png
+    image_path: /assets/images/C2Drift.png
+    alt: "Gameplay 2"
+    title: "Rift"
+    caption: "rift"
+  - url: /assets/images/C2Drift.png
+    image_path: /assets/images/C2Drift.png
+    alt: "Gameplay 2"
+    title: "Rift"
+    caption: "rift"
 ---
 
-This page is another project page that is nested within Projects.
+{% include gallery id="gallery_Towers" layout="third" thumb_height="180px" %}

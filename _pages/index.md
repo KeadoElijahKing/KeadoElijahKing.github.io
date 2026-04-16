@@ -24,7 +24,6 @@ feature_row:
     alt: "Keados Ship"
     title: "Keados Ship"
     excerpt: "This is the ship Keado recieves after his first mission."
-    url: "#test-link"
   - image_path: /assets/images/1stboat.jpeg
     alt: "Boat"
     title: "Boat"

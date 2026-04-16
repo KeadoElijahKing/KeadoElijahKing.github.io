@@ -101,8 +101,8 @@ gallery_Roads:
     alt: "Gameplay 2"
     title: "Level Three Road"
     caption: "Level Three Road"
-  - url: /assets/images/debarrierbottom 5.png
-    image_path: /assets/images/debarrierbottom 5.png
+  - url: /assets/images/deroadvertical 5.png
+    image_path: /assets/images/deroadvertical 5.png
     alt: "Gameplay 2"
     title: "Level Five Road"
     caption: "Level Five Road"

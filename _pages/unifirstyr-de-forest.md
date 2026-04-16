@@ -29,11 +29,11 @@ gallery_Towers:
     alt: "Gameplay 2"
     title: "Baseball Tower"
     caption: "Baseball Tower"
-  - url: /assets/images/C2Drift.png
-    image_path: /assets/images/C2Drift.png
+  - url: /assets/images/deswordtower.png
+    image_path: /assets/images/deswordtower.png
     alt: "Gameplay 2"
-    title: "Rift"
-    caption: "rift"
+    title: "Sword Tower"
+    caption: "Sword Tower"
 ---
 
 {% include gallery id="gallery_Towers" layout="third" thumb_height="180px" %}

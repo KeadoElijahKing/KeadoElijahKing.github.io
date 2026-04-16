@@ -43,11 +43,11 @@ gallery_Tilemaps&backgroundassets:
     alt: "Gameplay 1"
     title: "Tilemaps"
     caption: "Tilemaps"
-  - url: /assets/images/C2Dheart.png
-    image_path: /assets/images/C2Dheart.png
+  - url: /assets/images/C2Dtree.png
+    image_path: /assets/images/C2Dtree.png
     alt: "Gameplay 2"
-    title: "Health Collectible"
-    caption: "Health Collectible"
+    title: "Tree"
+    caption: "Tree"
    - url: /assets/images/C2Dkolby.png
     image_path: /assets/images/C2Dkolby.png
     alt: "Gameplay 1"

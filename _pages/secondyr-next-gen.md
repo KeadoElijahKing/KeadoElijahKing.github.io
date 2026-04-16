@@ -18,13 +18,13 @@ gallery_ship:
     alt: "Gameplay 2"
     title: "Model"
     caption: "Model"
-  - url: /assets/images/ngfrontship.jpeg
-    image_path: /assets/images/ngfrontship.jpeg
-    alt: "Gameplay 3"
-    title: "Ship Front"
-    caption: "Ship Front"
   - url: /assets/images/ngbackship.jpeg
     image_path: /assets/images/ngbackship.jpeg
+    alt: "Gameplay 3"
+    title: "Ship Back"
+    caption: "Ship Back"
+  - url: /assets/images/ngfrontship.jpeg
+    image_path: /assets/images/ngfrontship.jpeg
     alt: "Gameplay 3"
     title: "Ship Back"
     caption: "Ship Back"

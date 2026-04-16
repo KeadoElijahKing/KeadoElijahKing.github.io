@@ -64,6 +64,11 @@ gallery_bank:
     alt: "Gameplay 3"
     title: "Safe"
     caption: "Safe"
+  - url: /assets/images/ savecoin.png
+    image_path: /assets/images/ savecoin.png
+    alt: "Gameplay 3"
+    title: "Coin"
+    caption: "Coin"
 gallery_shop:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/saveshop.jpeg

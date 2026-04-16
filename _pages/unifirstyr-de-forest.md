@@ -78,8 +78,8 @@ gallery_Traps:
     alt: "Gameplay 1"
     title: "Oil Pit"
     caption: "Oil Pit"
-  - url: /assets/images/debarrierbottom 3.png
-    image_path: /assets/images/debarrierbottom 3.png
+  - url: /assets/images/despikepit.png
+    image_path: /assets/images/despikepit.png
     alt: "Gameplay 2"
     title: "Spike Pit"
     caption: "Spike Pit"

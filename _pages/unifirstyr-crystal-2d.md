@@ -61,16 +61,16 @@ gallery_Tilemaps&backgroundassets:
     caption: "Ladder"
 gallery_Code:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/C2Dtilemaps.png
-    image_path: /assets/images/C2Dtilemaps.png
+  - url: /assets/images/C2Dattackscript1.png
+    image_path: /assets/images/C2Dattackscript1.png
     alt: "Gameplay 1"
-    title: "Tilemaps"
-    caption: "Tilemaps"
-  - url: /assets/images/C2Dtree.png
-    image_path: /assets/images/C2Dtree.png
+    title: "Attack Script 1"
+    caption: "Attack Script 1"
+  - url: /assets/images/C2Dattackscript2.png
+    image_path: /assets/images/C2Dattackscript2.png
     alt: "Gameplay 2"
-    title: "Tree"
-    caption: "Tree"
+    title: "Attack Script 2"
+    caption: "Attack Script 2"
   - url: /assets/images/C2Dlampost.png
     image_path: /assets/images/C2Dlampost.png
     alt: "Gameplay 1"

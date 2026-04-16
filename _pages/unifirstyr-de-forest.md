@@ -37,21 +37,21 @@ gallery_Towers:
     
 gallery_Thingsthathit:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/dearchertowertopdown.png
-    image_path: /assets/images/dearchertowertopdown.png
+  - url: /assets/images/dearrow.png
+    image_path: /assets/images/dearrow.png
     alt: "Gameplay 1"
-    title: "Archer Tower"
-    caption: "Archer Tower"
+    title: "Archer Arrow"
+    caption: "Archer Arrow"
   - url: /assets/images/demachineguntower.png
     image_path: /assets/images/demachineguntower.png
     alt: "Gameplay 2"
-    title: "Machine Gun Tower"
-    caption: "Machine Gun Tower"
+    title: "Bullet"
+    caption: "Bullet"
   - url: /assets/images/depistoltower.png
     image_path: /assets/images/depistoltower.png
     alt: "Gameplay 2"
-    title: "Pistol Tower"
-    caption: "Pistol Tower"
+    title: "Sword"
+    caption: "Sword"
 ---
 
 {% include gallery id="gallery_Towers" layout="third" thumb_height="180px" %}

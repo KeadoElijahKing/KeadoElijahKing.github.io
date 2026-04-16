@@ -69,11 +69,11 @@ gallery_Buildings:
     alt: "Gameplay 1"
     title: "Spaceport"
     caption: "Spaceport"
-  - url: /assets/images/C3Dtree.png
-    image_path: /assets/images/C3Dtree.png
+  - url: /assets/images/C3Dappartments.png
+    image_path: /assets/images/C3Dappartments.png
     alt: "Gameplay 2"
-    title: "Green Tree"
-    caption: "Green Tree"
+    title: "Apartments"
+    caption: "Apartments"
 ---
 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}

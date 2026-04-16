@@ -62,8 +62,21 @@ gallery_Trees:
     alt: "Gameplay 3"
     title: "Alien Exotic Tree 2"
     caption: "Alien Exotic Tree 2 "
+gallery_Buildings:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/C3Dmapletree.png
+    image_path: /assets/images/C3Dmapletree.png
+    alt: "Gameplay 1"
+    title: "Maple Tree"
+    caption: "Maple Tree"
+  - url: /assets/images/C3Dtree.png
+    image_path: /assets/images/C3Dtree.png
+    alt: "Gameplay 2"
+    title: "Green Tree"
+    caption: "Green Tree"
 ---
 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Vegatation" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Trees" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Buildings" layout="third" thumb_height="180px" %}

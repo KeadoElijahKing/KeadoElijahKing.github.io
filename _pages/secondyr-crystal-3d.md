@@ -27,8 +27,3 @@ sidebar:
 ---
 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}
-jhgkjhb
-
-
-
-{% include video id="CIOrubINR4" provider="youtube" %}

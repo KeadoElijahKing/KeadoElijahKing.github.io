@@ -14,11 +14,11 @@ gallery_enemy:
     alt: "Gameplay 1"
     title: "Enemy"
     caption: "Enemy"
-  - url: /assets/images/ngshipmodel.jpeg
-    image_path: /assets/images/ngshipmodel.jpeg
+  - url: /assets/images/C2Dfireball.png
+    image_path: /assets/images/C2Dfireball.png
     alt: "Gameplay 2"
-    title: "Model"
-    caption: "Model"
+    title: "Fireball"
+    caption: "Fireball"
 
 ---
 

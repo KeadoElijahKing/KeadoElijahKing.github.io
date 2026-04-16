@@ -36,8 +36,31 @@ gallery_Vegtation:
     alt: "Gameplay 2"
     title: "Plant"
     caption: "Plant"
-  - url: /assets/images/C3Dspaceship2.png
-    image_path: /assets/images/C3Dspaceship2.png
+  - url: /assets/images/C3Dmushroom.png
+    image_path: /assets/images/C3Dmushroom.png
+    alt: "Gameplay 3"
+    title: "Mushroom"
+    caption: "Mushroom"
+
+gallery_Trees:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/C3Dgrass.png
+    image_path: /assets/images/C3Dgrass.png
+    alt: "Gameplay 1"
+    title: "Grass"
+    caption: "Grass"
+  - url: /assets/images/C3Dfern.png
+    image_path: /assets/images/C3Dfern.png
+    alt: "Gameplay 2"
+    title: "Plant"
+    caption: "Plant"
+  - url: /assets/images/C3Dmushroom.png
+    image_path: /assets/images/C3Dmushroom.png
+    alt: "Gameplay 3"
+    title: "Mushroom"
+    caption: "Mushroom"
+  - url: /assets/images/C3Dmushroom.png
+    image_path: /assets/images/C3Dmushroom.png
     alt: "Gameplay 3"
     title: "Mushroom"
     caption: "Mushroom"
@@ -45,3 +68,4 @@ gallery_Vegtation:
 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Vegtation" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Trees" layout="third" thumb_height="180px" %}

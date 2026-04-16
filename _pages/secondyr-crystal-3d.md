@@ -44,11 +44,11 @@ gallery_Vegtation:
 
 gallery_Trees:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/C3Dgrass.png
-    image_path: /assets/images/C3Dgrass.png
+  - url: /assets/images/C3Dmapletree.png
+    image_path: /assets/images/C3Dmapletree.png
     alt: "Gameplay 1"
-    title: "Grass"
-    caption: "Grass"
+    title: "Maple Tree"
+    caption: "Maple Tree"
   - url: /assets/images/C3Dfern.png
     image_path: /assets/images/C3Dfern.png
     alt: "Gameplay 2"

@@ -7,6 +7,19 @@ sidebar:
   nav:
     - unifirstyr
 
+    
+gallery_Xylems:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/dexylem1.png
+    image_path: /assets/images/dexylem1.png
+    alt: "Gameplay 1"
+    title: "Archer Tower"
+    caption: "Archer Tower"
+  - url: /assets/images/demachineguntower.png
+    image_path: /assets/images/demachineguntower.png
+    alt: "Gameplay 2"
+    title: "Machine Gun Tower"
+    caption: "Machine Gun Tower"
 gallery_Towers:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/dearchertowertopdown.png
@@ -125,7 +138,7 @@ gallery_Others:
     title: "Fireflies"
     caption: "Fireflies"
 ---
-
+{% include gallery id="gallery_Xylems" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Towers" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Thingsthathit" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Barriers" layout="third" thumb_height="180px" %}

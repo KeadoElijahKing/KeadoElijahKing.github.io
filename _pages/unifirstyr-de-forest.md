@@ -13,13 +13,13 @@ gallery_Xylems:
   - url: /assets/images/dexylem1.png
     image_path: /assets/images/dexylem1.png
     alt: "Gameplay 1"
-    title: "Archer Tower"
-    caption: "Archer Tower"
-  - url: /assets/images/demachineguntower.png
-    image_path: /assets/images/demachineguntower.png
+    title: "Early Stage Xylem"
+    caption: "Early Stage Xylem"
+  - url: /assets/images/dexylem2.png
+    image_path: /assets/images/dexylem2.png
     alt: "Gameplay 2"
-    title: "Machine Gun Tower"
-    caption: "Machine Gun Tower"
+    title: "Late Stage Xylem"
+    caption: "Late Stage Xylem"
 gallery_Towers:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/dearchertowertopdown.png

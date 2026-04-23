@@ -99,7 +99,8 @@ gallery_Others:
 ---
 
 This page is another project page that is nested within Projects.
-{% include figure image_path="/assets/images/saverobot.png" alt="Game Jam screenshot" caption="This is the Robot that was the main protagonist in Save The Day. He has carbon fibre muscles connected throught wiring and metals fittings, and at his centre is a power core." %}
+{% include figure image_path="/assets/images/saverobot.png" alt="Game Jam screenshot" caption="" %}
+This is the Robot that was the main protagonist in Save The Day. He has carbon fibre muscles connected throught wiring and metals fittings, and at his centre is a power core.
 {% include gallery id="gallery_floors" layout="third" thumb_height="180px" %}
 The first image here shows of level one of Save The Day, here there are some rails the robot grinds along, there is also a train that contains people who have been imprisoned. The second image is of level two, here there is a shop and a bank. The final image shows level four, the kill switch, where the robot will press this to deactivate all the robots, including himself to save huamnity. 
 {% include gallery id="gallery_Warehouse" layout="third" thumb_height="180px" %}

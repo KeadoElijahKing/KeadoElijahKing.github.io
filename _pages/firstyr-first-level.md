@@ -101,7 +101,13 @@ This page is another project page that is nested within Projects.
 
 
 {% include gallery id="gallery_level" layout="third" thumb_height="180px" %}
+On the first image I am showing a cave system. I have placed it above the level so it can be viewed easily. This cave system lead to the heart of the world. 
+The second image is of the path that the player traverses, it has a green path to show where to go and you are surrounded by trees and grass on either side. 
+The final image shows the border of the path, this is in place to keep teh level linear and blocked off from the surrounding environment.
 {% include gallery id="gallery_level2" layout="third" thumb_height="180px" %}
+The first image shows a tower in the woods, this tower is actually a landing platform for the main characters spaceship. 
+The second image shows the lake that has a bridge that crosses it, the player would travel this bridge and a mission would be on the other end. You can also see some boats situated on top of the water. 
+The final image shows the terrain of the level. I created this using the terrain feature in Unity. 
 {% include gallery id="gallery_assets" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_wall" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery__teleporter" layout="third" thumb_height="180px" %}

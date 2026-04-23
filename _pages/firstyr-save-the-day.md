@@ -94,19 +94,19 @@ gallery_Others:
     alt: "Gameplay 2"
     title: "Train"
     caption: "Train"
-  - url: /assets/images/savecupboard.jpeg
-    image_path: /assets/images/savecupboard.jpeg
-    alt: "Gameplay 3"
-    title: "Cupboard"
-    caption: "Cupboard"
 
 
 ---
 
 This page is another project page that is nested within Projects.
-{% include figure image_path="/assets/images/saverobot.png" alt="Game Jam screenshot" caption="This is a caption" %}
+{% include figure image_path="/assets/images/saverobot.png" alt="Game Jam screenshot" caption="This is the Robot that was the main protagonist in Save The Day. He has carbon fibre muscles connected throught wiring and metals fittings, and at his centre is a power core." %}
 {% include gallery id="gallery_floors" layout="third" thumb_height="180px" %}
+The first image here shows of level one of Save The Day, here there are some rails the robot grinds along, there is also a train that contains people who have been imprisoned. The second image is of level two, here there is a shop and a bank. The final image shows level four, the kill switch, where the robot will press this to deactivate all the robots, including himself to save huamnity. 
 {% include gallery id="gallery_Warehouse" layout="third" thumb_height="180px" %}
+This images are of level three, the warehous district. The first image is of floor one of the warehouse and the second of floor two, where an elevator takes you between them, and another that takes you to level four. The third image shows the warehouse shelves where stock would be stored, and the final image is of a metal container, holding equipment and goods. 
 {% include gallery id="gallery_bank" layout="third" thumb_height="180px" %}
+These images show off the bank. The first image is the inside of the bank, where you can see the teller station behind the glass with some seating. The second image os of the ATM's placed in the bank. The third image is of the safe hidden behind the teller station. The final image is of a coin, this coin is also collected for score. 
 {% include gallery id="gallery_shop" layout="third" thumb_height="180px" %}
+This is the shop, with shelves and tills, teh shelves have fruit, shown in the second image, as well as bottles of water and packets of crisps. 
 {% include gallery id="gallery_Others" layout="third" thumb_height="180px" %}
+The first image here is of an ammo crate, where the player can collect ammo. Then we have the train, which carry people about sending them to camps. 

@@ -77,23 +77,7 @@ gallery_wall:
     alt: "Gameplay 2"
     title: "Wall"
     caption: "Wall"
-gallery_teleporter:
-  # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/1stteleporter.jpeg
-    image_path: /assets/images/1stteleporter.jpeg
-    alt: "Gameplay 1"
-    title: "Teleporter"
-    caption: "Teleporter"
-  - url: /assets/images/1stteleporterscript.jpeg
-    image_path: /assets/images/1stteleporterscript.jpeg
-    alt: "Gameplay 2"
-    title: "Teleporter Script"
-    caption: "Teleporter Script"
-  - url: /assets/images1stappearscript.jpeg
-    image_path: /assets/images/1stappearscript.jpeg
-    alt: "Gameplay 2"
-    title: "Appear Script"
-    caption: "Appear Script"
+
     
 ---
 
@@ -109,7 +93,7 @@ The first image shows a tower in the woods, this tower is actually a landing pla
 The second image shows the lake that has a bridge that crosses it, the player would travel this bridge and a mission would be on the other end. You can also see some boats situated on top of the water. 
 The final image shows the terrain of the level. I created this using the terrain feature in Unity. 
 {% include gallery id="gallery_assets" layout="third" thumb_height="180px" %}
+The first image shows the boat that was on the water, this image however shows teh boat fully textured. The second image is of the players spaceship, textured with a red and black metallic texture.The final image is of a house, this is where a mission takes place. 
 {% include gallery id="gallery_wall" layout="third" thumb_height="180px" %}
-{% include gallery id="gallery__teleporter" layout="third" thumb_height="180px" %}
-
+These images are of the castle walls surroundng the city. The first image is of the Castle Gates, it has pillars on each side, a checkered metal gate and a stone wall. The sceond image is of teh pillar with a marble texture. The final image is of the wall that connects the pillars together. 
 

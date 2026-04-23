@@ -110,7 +110,7 @@ Here is the process of creating my Chest Haunted Animation. Again I created vari
 This video uploaded to YouTube showcases the chest animation. 
 
 {% include gallery id="gallery_haunteddoor" layout="third" thumb_height="180px" %}
-Moving onto the Door Haunted Animation. In photoshop I chose to go with a grey stone colour for it's step, and a brown colour for the door and blue tainted glass, teh secon dcolour follows teh theme of black, dark grey and deep purples. Again when modelled I created a storyboard, showing how the door opesns and closes. Then the final image shows off the textured final result where I went with a grey stone border, a brown wooden door and blue glass.
+Moving onto the Door Haunted Animation. In photoshop I chose to go with a grey stone colour for it's step, and a brown colour for the door and blue tainted glass, the second colour follows the theme of black, dark grey and deep purples. Again when modelled I created a storyboard, showing how the door opesns and closes. Then the final image shows off the textured final result where I went with a grey stone border, a brown wooden door and blue glass.
 {% include video id="glHMwgCFF1o" provider="youtube" %}
 This YouTube video I uploaded shows of the door animation. 
 

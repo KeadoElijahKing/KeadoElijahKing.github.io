@@ -8,6 +8,4 @@ sidebar:
     - secondyr
 ---
 
-Welcome to the projects page. This is where you can list your game projects.
-
-You can use this page to show a reel of all projects and then have a separate page for each project.
+Hello, and welcome to my second year of college, in these pages I will show my works from my second year at the NRC Newewtownabbey campus. These projects include my work with Next Gen, and ,y final project, Crystallisation 3D. I hope that you can see the viusa improvments from my first year and I hope you enjoy viewing my projects from this year.

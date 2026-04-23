@@ -6,28 +6,6 @@ sidebar:
   title: "Second Year College"
   nav:
     - secondyr
-gallery_ship:
-  # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/ngbrainstorm.jpeg
-    image_path: /assets/images/ngbrainstorm.jpeg
-    alt: "Gameplay 1"
-    title: "Board"
-    caption: "Board"
-  - url: /assets/images/ngshipmodel.jpeg
-    image_path: /assets/images/ngshipmodel.jpeg
-    alt: "Gameplay 2"
-    title: "Model"
-    caption: "Model"
-  - url: /assets/images/ngbackship.jpeg
-    image_path: /assets/images/ngbackship.jpeg
-    alt: "Gameplay 3"
-    title: "Ship Back"
-    caption: "Ship Back"
-  - url: /assets/images/ngfrontship.jpeg
-    image_path: /assets/images/ngfrontship.jpeg
-    alt: "Gameplay 3"
-    title: "Ship Front"
-    caption: "Ship Front"
 
 gallery_kart:
   # Recommended: width "360px" to "480px" keeps a neat grid
@@ -69,6 +47,7 @@ gallery_bike:
 
 This page is another project page that is nested within Projects.
 
-{% include gallery id="gallery_ship" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_kart" layout="third" thumb_height="180px" %}
+I entered into a competetion where we had to create an animal and a kart in the style of Animal Crossing. One of the options for the animal was a cat. We had a budget of 5,000 tris split between the cat and the kart. I created the kart with floating wheels, and the wheels have cat faces on them and so does the steering wheel. These images show the Kat and Kart during modelling and textured in Substance painter. 
 {% include gallery id="gallery_bike" layout="third" thumb_height="180px" %}
+Again we had another competetion, where we had to create a vehicle that could transport cargo and we were given another budget, but this time it was 15,000. I created a hover bike that had connections on the back that alowwed it to transport goods. These images show the model and the textured final project.

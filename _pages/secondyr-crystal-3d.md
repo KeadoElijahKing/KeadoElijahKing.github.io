@@ -23,6 +23,16 @@ gallery_MainCharacters:
     alt: "Gameplay 3"
     title: "Stolen Ship"
     caption: "Stolen Ship"
+  - url: /assets/images/C3Dspaceship1.png
+    image_path: /assets/images/C3Dspaceship1.png
+    alt: "Gameplay 2"
+    title: "Kolby"
+    caption: "Kolby"
+  - url: /assets/images/C3Dspaceship2.png
+    image_path: /assets/images/C3Dspaceship2.png
+    alt: "Gameplay 3"
+    title: "Raptor Enemy"
+    caption: "Raptor Enemy"
 gallery_Vegatation:
   # Recommended: width "360px" to "480px" keeps a neat grid
   - url: /assets/images/C3Dgrass.png
@@ -79,10 +89,36 @@ gallery_Buildings:
     alt: "Gameplay 2"
     title: "Lamppost"
     caption: "Lamppost"
+gallery_Levelone:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/C3Dspaceport.png
+    image_path: /assets/images/C3Dspaceport.png
+    alt: "Gameplay 1"
+    title: "Spaceport"
+    caption: "Spaceport"
+  - url: /assets/images/C3Dappartments.png
+    image_path: /assets/images/C3Dappartments.png
+    alt: "Gameplay 2"
+    title: "Apartments"
+    caption: "Apartments"
+gallery_Leveltwo:
+  # Recommended: width "360px" to "480px" keeps a neat grid
+  - url: /assets/images/C3Dspaceport.png
+    image_path: /assets/images/C3Dspaceport.png
+    alt: "Gameplay 1"
+    title: "Spaceport"
+    caption: "Spaceport"
+  - url: /assets/images/C3Dappartments.png
+    image_path: /assets/images/C3Dappartments.png
+    alt: "Gameplay 2"
+    title: "Apartments"
+    caption: "Apartments"
 ---
 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Vegatation" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Trees" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Buildings" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Levelone" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_Leveltwo" layout="third" thumb_height="180px" %}
 {% include video id="DfIt12rWFEo" provider="youtube" %}

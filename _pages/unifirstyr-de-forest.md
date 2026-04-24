@@ -122,16 +122,21 @@ gallery_Roads:
 
 gallery_Others:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/dewinscreen.png
-    image_path: /assets/images/dewinscreen.png
+  - url: /assets/images/dewin.png
+    image_path: /assets/images/dewin.png
     alt: "Gameplay 1"
     title: "Win Screen"
     caption: "Win Screen"
-  - url: /assets/images/delosescreen.png
-    image_path: /assets/images/delosescreen.png
+  - url: /assets/images/deloss.png
+    image_path: /assets/images/deloss.png
     alt: "Gameplay 2"
     title: "Lose Screen"
     caption: "Lose Screen"
+  - url: /assets/images/detitle.png
+    image_path: /assets/images/detitle.png
+    alt: "Gameplay 2"
+    title: "Title Screen"
+    caption: "Title Screen"
   - url: /assets/images/defireflies.png
     image_path: /assets/images/defireflies.png
     alt: "Gameplay 2"

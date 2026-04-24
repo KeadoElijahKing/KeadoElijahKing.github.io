@@ -62,7 +62,7 @@ gallery_Tilemaps&backgroundassets:
 
 
 ---
-Hello and welcome to my Crystallisation 2D page. Here I will be showing my assets from this project.
+Hello and welcome to my Crystallisation 2D page. Here I will be showing my assets from this project. The story follows Kolby trying to get off of a world being derstroyed by creatures of darkness
 
 {% include gallery id="gallery_enemy" layout="third" thumb_height="180px" %}
 The first image here is of the main enemy of the game, found all throughout the level, it is a demon gargoyle that slashes at you. The next is an image of a fireeball, they rain down from the sky causing damage. The final image is of a rift, this rift is in the sky, sucking everything in and causing the fireballs to rain down.

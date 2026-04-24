@@ -125,7 +125,7 @@ These are some of the vegetation assets for the game. In the first image I have 
 These images are of my tree assets. Among them we have a Maple tree, an Oak tree and two alien trees that have blue leaves.
 
 {% include gallery id="gallery_Buildings" layout="third" thumb_height="180px" %}
-Here I show some more assets that can be found in Letrhum the first level, at the end of the level you come across teh Spaceport, which is the first image, as you leave the park and the street, you get to teh city, where you come across the apartment building shown in teh secpnd image. The final image here is of a lampost which are located in the street.
+Here I show some more assets that can be found in Letrhum the first level, at the end of the level you come across the Spaceport, which is the first image, as you leave the park and the street, you get to the city, where you come across the apartment building shown in the second image. The final image here is of a lampost which are located in the street.
 
 {% include gallery id="gallery_Levelone" layout="third" thumb_height="180px" %}
 These images are of Lethrum. The first shows the street where you begin the level, there are lampposts and houses to both sides. The next image is an overview of the nature park just after the street.

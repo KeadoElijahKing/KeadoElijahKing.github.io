@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "Welcome to my portfolio. In these pages I will show my journey from the beginning when I was a neophyte starting in college, to a competent game designer starting at university.."
+excerpt: "Welcome to my portfolio. In these pages I will show my journey from the beginning when I was a neophyte starting in college, to a competent game designer starting at university."
 intro: 
  
   - image_path: /assets/images/C3Dkeado.png

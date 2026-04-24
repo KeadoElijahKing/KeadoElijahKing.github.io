@@ -114,8 +114,9 @@ gallery_Leveltwo:
     title: "Overview of Televein"
     caption: "Overview of Televein"
 ---
-
+Hello, and welcome to my Crystallisation 3D page, here I will show of some of my assets from this project and the level design. 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}
+
 {% include gallery id="gallery_Vegatation" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Trees" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Buildings" layout="third" thumb_height="180px" %}

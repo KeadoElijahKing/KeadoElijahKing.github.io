@@ -138,6 +138,7 @@ gallery_Others:
     title: "Fireflies"
     caption: "Fireflies"
 ---
+Hello and welcome to my De-Forest Station page. This project was a group project.
 {% include gallery id="gallery_Xylems" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Towers" layout="third" thumb_height="180px" %}
 {% include gallery id="gallery_Thingsthathit" layout="third" thumb_height="180px" %}

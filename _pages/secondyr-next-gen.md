@@ -45,7 +45,7 @@ gallery_bike:
 
 ---
 
-This page is another project page that is nested within Projects.
+This page shows my works with Next Gen. They are from sepearte competitions I entered.
 
 {% include gallery id="gallery_kart" layout="third" thumb_height="180px" %}
 I entered into a competetion where we had to create an animal and a kart in the style of Animal Crossing. One of the options for the animal was a cat. We had a budget of 5,000 tris split between the cat and the kart. I created the kart with floating wheels, and the wheels have cat faces on them and so does the steering wheel. These images show the Kat and Kart during modelling and textured in Substance painter. 

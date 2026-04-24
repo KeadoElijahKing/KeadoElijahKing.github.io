@@ -8,7 +8,7 @@ sidebar:
     - secondyr
 gallery_MainCharacters:
   # Recommended: width "360px" to "480px" keeps a neat grid
-  - url: /assets/images/C3Dkeado.png
+  - url: /assets/images/C3Dkeado2.png
     image_path: /assets/images/C3Dkeado.png
     alt: "Gameplay 1"
     title: "Keado"

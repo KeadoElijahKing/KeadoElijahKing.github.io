@@ -116,10 +116,22 @@ gallery_Leveltwo:
 ---
 Hello, and welcome to my Crystallisation 3D page, here I will show of some of my assets from this project and the level design. 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}
+These images show of the main assets for this project. the first image is of Keado, the first main protagonist of the game. Second we have the ship he arrived in to the first level, Lethrum. The third image is of a ship Keado had to steal to get off the world after his ship gets destroyed. The fourth image is of Kolby, The second main protagonist in the world Televein. The final image is of the Raptor enemy that has invaded both Lethrum and Televein. All these assets were modelled in Blender and textured in Substance Painter. 
 
 {% include gallery id="gallery_Vegatation" layout="third" thumb_height="180px" %}
+These are some of the vegetation assets for the game. In the first image I have a grass asset with a blue and a white emissive feature. The second image is a plant with the same effect and colour of the grass. The final image is of a mushroom, with deep dark blues and purples and an emissive pink on the heads of the mushrooms.
+
 {% include gallery id="gallery_Trees" layout="third" thumb_height="180px" %}
+These images are of my tree assets. Among them we have a Maple tree, an Oak tree and two alien trees that have blue leaves.
+
 {% include gallery id="gallery_Buildings" layout="third" thumb_height="180px" %}
+Here I show some more assets that can be found in Letrhum the first level, at the end of the level you come across teh Spaceport, which is the first image, as you leave the park and the street, you get to teh city, where you come across the apartment building shown in teh secpnd image. The final image here is of a lampost which are located in the street.
+
 {% include gallery id="gallery_Levelone" layout="third" thumb_height="180px" %}
+These images are of Lethrum. The first shows the street where you begin the level, there are lampposts and houses to both sides. The next image is an overview of the nature park just after the street.
+
 {% include gallery id="gallery_Leveltwo" layout="third" thumb_height="180px" %}
+Finally we have images of the second level and world in the game. The first image shows the landing site where Kolby has arrived on Televein. The next is an overview of the world.
+
 {% include video id="DfIt12rWFEo" provider="youtube" %}
+Here is a video of the entire game. 

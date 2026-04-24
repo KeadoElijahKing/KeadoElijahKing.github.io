@@ -13,13 +13,13 @@ gallery_MainCharacters:
     alt: "Gameplay 1"
     title: "Keado"
     caption: "Keado"
-  - url: /assets/images/C3Dspaceship1.png
-    image_path: /assets/images/C3Dspaceship1.png
+  - url: /assets/images/C3Dspaceship1-2.png
+    image_path: /assets/images/C3Dspaceship1-2.png
     alt: "Gameplay 2"
     title: "Keado's Ship"
     caption: "Keado's Ship"
-  - url: /assets/images/C3Dspaceship2.png
-    image_path: /assets/images/C3Dspaceship2.png
+  - url: /assets/images/C3Dspaceship2-2.png
+    image_path: /assets/images/C3Dspaceship2-2.png
     alt: "Gameplay 3"
     title: "Stolen Ship"
     caption: "Stolen Ship"

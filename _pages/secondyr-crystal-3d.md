@@ -114,7 +114,7 @@ gallery_Leveltwo:
     title: "Overview of Televein"
     caption: "Overview of Televein"
 ---
-Hello, and welcome to my Crystallisation 3D page, here I will show of some of my assets from this project and the level design. 
+Hello, and welcome to my Crystallisation 3D page, here I will show of some of my assets from this project and the level design. The story starts with Keado trying to get teh people of Lethrum off teh world as its being destroyed bu creatures of darkness. The sceond level is of Kolby scouting for apprentices but finds those same creatures on Televein. 
 {% include gallery id="gallery_MainCharacters" layout="third" thumb_height="180px" %}
 These images show of the main assets for this project. the first image is of Keado, the first main protagonist of the game. Second we have the ship he arrived in to the first level, Lethrum. The third image is of a ship Keado had to steal to get off the world after his ship gets destroyed. The fourth image is of Kolby, The second main protagonist in the world Televein. The final image is of the Raptor enemy that has invaded both Lethrum and Televein. All these assets were modelled in Blender and textured in Substance Painter. 
 

@@ -71,4 +71,4 @@ The first image here is of the main enemy of the game, found all throughout the 
 Then we have the main protagonist Kolby, she carries a crystal sword so as to defeat the Gargoyles. The next image is of a heart, Kolby collects these to increase her health.
 
 {% include gallery id="gallery_Tilemaps&backgroundassets" layout="third" thumb_height="180px" %}
-These are some other assets. First I show of the tilemaps, here you can see all the tilemaps I made for the game, the wall, the grass, the stone floor and teh dirt beneath. Then I have a tree and lamppost that are all around the level, some on the ground and some floating due to the rift. Then finally we have a ladder that Kolby uses to climb through the level, some of these are floating too. 
+These are some other assets. First I show of the tilemaps, here you can see all the tilemaps I made for the game, the wall, the grass, the stone floor and the dirt beneath. Then I have a tree and lamppost that are all around the level, some on the ground and some floating due to the rift. Then finally we have a ladder that Kolby uses to climb through the level, some of these are floating too. 

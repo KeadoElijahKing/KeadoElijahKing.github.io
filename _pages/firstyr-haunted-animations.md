@@ -97,7 +97,7 @@ gallery_hauntedspiketrap:
     caption: "Model"
 ---
 
-This page is another project page that is nested within Projects.
+This page shows of my Haunted Animations. We had to create five assets and animate them.
 
 {% include gallery id="gallery_hauntedchair" layout="third" thumb_height="180px" %}
 These Images showcase the process of creating my Electric Chair Hanted Animation. I created two variations in photoshop with different colours, a brown and grey with a silver skullcap, and the other colours are black purple and red with a dark steel skullcap. When I created the model in blender, I took Screenshots and added them to a storyboard, with some text to describe what the animation is doing. Then I have an image of the model textured, I went with a light brown wood texture for the chair and a steel for the skullcap.
@@ -105,7 +105,7 @@ These Images showcase the process of creating my Electric Chair Hanted Animation
 Above here is a video of the animation on YouTube.
 
 {% include gallery id="gallery_hauntedchest" layout="third" thumb_height="180px" %}
-Here is the process of creating my Chest Haunted Animation. Again I created variants on photoshop, a brown chest with white bones amd gold chains, and a grey chest with red bones and a red chain. Then when modelled I created a storyboard to show and explain my animation, and finally an image of the chest textured in Substance Painter where I went with a brown chest with red bones.
+Here is the process of creating my Chest Haunted Animation. Again I created variants on photoshop, a brown chest with white bones and gold chains, and a grey chest with red bones and a red chain. Then when modelled I created a storyboard to show and explain my animation, and finally an image of the chest textured in Substance Painter where I went with a brown chest with red bones.
 {% include video id="uRBdeEf_YOg" provider="youtube" %}
 This video uploaded to YouTube showcases the chest animation. 
 
@@ -120,6 +120,6 @@ Now for the Lantern Haunted Animation. When creating this asset in photoshop, th
 This video will show you the animation for the Lantern. 
 
 {% include gallery id="gallery_hauntedspiketrap" layout="third" thumb_height="180px" %}
-Fially for this page is the Spike Trap Haunted Animation. In photoshop, these assets have two colour variations, one with brown slabs with metal spikes tipped with blood and metal pipes that extend allowing the trap to work, and the other grey slabs with spikes covered in blood and metal pipes. Then I show and explain in the storyboard how these two pieces will go up and down simultaneously and crush whatever is caught between them. Then the final image shows the trap textured with a dark grey for the slabs, a ligher metallic grey for the pipes, and steel spikes tipped with blood. 
+Finally for this page is the Spike Trap Haunted Animation. In photoshop, these assets have two colour variations, one with brown slabs with metal spikes tipped with blood and metal pipes that extend allowing the trap to work, and the other grey slabs with spikes covered in blood and metal pipes. Then I show and explain in the storyboard how these two pieces will go up and down simultaneously and crush whatever is caught between them. Then the final image shows the trap textured with a dark grey for the slabs, a ligther metallic grey for the pipes, and steel spikes tipped with blood. 
 {% include video id="Q6B7aiuR-kQ" provider="youtube" %}
-This final vidoe shows teh trap animated. 
+This final vidoe shows the trap animated. 

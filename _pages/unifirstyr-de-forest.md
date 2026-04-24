@@ -127,8 +127,8 @@ gallery_Others:
     alt: "Gameplay 1"
     title: "Win Screen"
     caption: "Win Screen"
-  - url: /assets/images/deloss.png
-    image_path: /assets/images/deloss.png
+  - url: /assets/images/deloss.PNG
+    image_path: /assets/images/deloss.PNG
     alt: "Gameplay 2"
     title: "Lose Screen"
     caption: "Lose Screen"

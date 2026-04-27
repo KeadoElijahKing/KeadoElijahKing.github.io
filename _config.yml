@@ -57,9 +57,9 @@ footer: # Site footer
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
       # url:
-      target: "_blank"
-    - label: "LinkedIn" # GitHub link
-      icon: "fab fa-fw fa-github"
+      footer:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
     - url: "https://www.linkedin.com/in/keado-king-291ab6312/"
       target: "_blank"
     - label: "GitLab" # GitLab link

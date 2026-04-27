@@ -52,15 +52,15 @@ footer: # Site footer
   links: # Footer links
     - label: "Twitter" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
-      # url: 
+    - url: "www.x.com"
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
-    - url: "https://www.facebook.com/profile.php?id=61575822913498"
+      #url: "https://www.facebook.com/profile.php?id=61575822913498"
       target: "_blank"
     - label: "LinkedIn"
       icon: "fab fa-linkedin fa-fw"
-    - url: "https://www.linkedin.com"
+      #url: "https://www.linkedin.com"
       target: "_blank"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"

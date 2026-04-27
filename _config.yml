@@ -60,7 +60,7 @@ footer: # Site footer
       footer:
     - label: "LinkedIn"
       icon: "fab fa-linkedin fa-fw"
-    - url: "https://www.linkedin.com"
+    -  url: "https://www.linkedin.com"
       target: "_blank"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"

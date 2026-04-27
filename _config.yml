@@ -59,8 +59,8 @@ footer: # Site footer
       #url: "https://www.facebook.com/profile.php?id=61575822913498"
       target: "_blank"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin fa-fw"
-      #url: "https://www.linkedin.com"
+      icon: "fab fa-linkedin"
+    - url: "https://www.linkedin.com/in/keado-king-291ab6312/" 
       target: "_blank"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"

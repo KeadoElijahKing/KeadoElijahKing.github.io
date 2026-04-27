@@ -56,8 +56,8 @@ footer: # Site footer
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-      footer:
+    - url: "https://www.facebook.com/profile.php?id=61575822913498"
+      target: "_blank"
     - label: "LinkedIn"
       icon: "fab fa-linkedin fa-fw"
     - url: "https://www.linkedin.com"

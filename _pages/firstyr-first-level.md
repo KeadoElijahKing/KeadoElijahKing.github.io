@@ -95,5 +95,5 @@ The final image shows the terrain of the level. I created this using the terrain
 {% include gallery id="gallery_assets" layout="third" thumb_height="180px" %}
 The first image shows the boat that was on the water, this image however shows the boat fully textured. The second image is of the players spaceship, textured with a red and black metallic texture. The final image is of a house, this is where a mission takes place. 
 {% include gallery id="gallery_wall" layout="third" thumb_height="180px" %}
-These images are of the castle walls surroundng the city. The first image is of the Castle Gates, it has pillars on each side, a checkered metal gate and a stone wall. The sceond image is of the pillar with a marble texture. The final image is of the wall that connects the pillars together. 
+These images are of the castle walls surroundng the city. The first image is of the Castle Gates, it has pillars on each side, a checkered metal gate and a stone wall. The second image is of the pillar with a marble texture. The final image is of the wall that connects the pillars together. 
 

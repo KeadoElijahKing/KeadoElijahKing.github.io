@@ -70,6 +70,6 @@ In the images above I am showcasing the grass I created for my 3D diorama. They 
 {% include gallery id="gallery_dioramacrystal" layout="third" thumb_height="180px" %}
 These are the crystals I created for the 3D diorama, they come in a green and blue variant and a pink version.
 {% include gallery id="gallery_dioramamushroom" layout="third" thumb_height="180px" %}
-Then we have the mushroom that I created, its a simple mushroom with a deep purple colouration at its tip and a blue at its base.
+Then we have the mushroom that I created, it's a simple mushroom with a deep purple colouration at it's tip and a blue at its base.
 {% include video id="unP9But-MR0" provider="youtube" %}
 This is a video showing the 3D diorama in its entirety.

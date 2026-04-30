@@ -98,7 +98,7 @@ gallery_Others:
 
 ---
 On this page I will be showing of my first game I made called Save The Day. Save The Day follows a Robot during the robot revolution  against humanity but instead of fighting humanity he is trying to save them. 
-{% include figure image_path="/assets/images/saverobot.png" alt="Game Jam screenshot" caption="" %}
+{% include figure image_path="/assets/images/saverobot2.png" alt="Game Jam screenshot" caption="" %}
 This is the Robot that was the main protagonist in Save The Day. He has carbon fibre muscles connected throught wiring and metals fittings, and at his centre is a power core.
 
 {% include gallery id="gallery_floors" layout="third" thumb_height="180px" %}

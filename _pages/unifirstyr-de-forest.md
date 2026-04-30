@@ -155,7 +155,7 @@ Here I am showing the towers I created for the game. The first one is an Archer 
 Here we have the projectiles and weapons. The first is of an arrow that the archer uses. Then we have a bullet projectile for the Gunner and Pistol Towers. Then we have the sword that the Samurai uses.
 
 {% include gallery id="gallery_Barriers" layout="third" thumb_height="180px" %}
-These are the Barriers that blockade the city stopping the Xylems. If they take enough damage, teh break and then we move onto the next level. Here there are three on display, they progressively get more damaged showing how long the War has gone on.  
+These are the Barriers that blockade the city stopping the Xylems. If they take enough damage, you lose the game. Here there are three on display, they progressively get more damaged showing how long the War has gone on.  
 
 {% include gallery id="gallery_Traps" layout="third" thumb_height="180px" %}
 Here I have my traps. These traps are placed along the path the Xylems follow, they deal high damage but fade after time. We have an Oil pit lit on fire, a spike pit where the Xylems fall into, then a spike bomb that sends spikes in all directions. 

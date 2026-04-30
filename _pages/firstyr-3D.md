@@ -36,7 +36,7 @@ gallery_dioramagrass:
     image_path: /assets/images/dioramagreengrass.jpeg
     alt: "Gameplay 2"
     title: "Green Grass"
-    caption: Green Grass"
+    caption: "Green Grass"
 
 gallery_dioramacrystal:
   # Recommended: width "360px" to "480px" keeps a neat grid

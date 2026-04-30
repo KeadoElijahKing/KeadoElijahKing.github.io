@@ -7,10 +7,7 @@ sidebar:
   nav:
     - contact
 ---
-
-Welcome to the projects page. This is where you can list your game projects.
-
-You can use this page to show a reel of all projects and then have a separate page for each project.
+This page is the contact page, if you like my work, please contact me.
 {% include google-form title="Contact Me" src="https://forms.gle/riJVQ82MKwWu3B8GA" height="800" %}
 
 

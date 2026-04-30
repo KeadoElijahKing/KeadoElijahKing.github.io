@@ -122,4 +122,4 @@ This video will show you the animation for the Lantern.
 {% include gallery id="gallery_hauntedspiketrap" layout="third" thumb_height="180px" %}
 Finally for this page is the Spike Trap Haunted Animation. In photoshop, these assets have two colour variations, one with brown slabs with metal spikes tipped with blood and metal pipes that extend allowing the trap to work, and for the other it has grey slabs with spikes covered in blood and metal pipes. Then I show and explain in the storyboard how these two pieces will go up and down simultaneously and crush whatever is caught between them. Then the final image shows the trap textured with a dark grey for the slabs, a ligther metallic grey for the pipes, and steel spikes tipped with blood. 
 {% include video id="Q6B7aiuR-kQ" provider="youtube" %}
-This final vidoe shows the trap animated. 
+This final video shows the trap animated. 

@@ -8,7 +8,7 @@ sidebar:
     - about-me
 ---
 
-My name is Paul-Ryan Kilby and I am a game dev student currently attending the Ulster University Magee campus studying BSc Game Design and Development starting in September 2025. 
+My name is Keado-Elijah King and I am a game dev student currently attending the Ulster University Magee campus studying BSc Game Design and Development starting in September 2025. 
 
 My main focus as a studnet is primarily a 3D artist, but I am aiming to be a generalist working in many sectors of the game design industry. My main strength that I have improved in since beginning my studies is in 3D modelling and animation. I have improved in every sector and will continue to do so. 
 
